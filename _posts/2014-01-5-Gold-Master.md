@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "The Gold Master"
 date:   2014-01-5
 excerpt: "The Gold Master"
 image: /images/goldMasterPic.png
