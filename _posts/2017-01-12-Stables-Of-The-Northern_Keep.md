@@ -26,4 +26,4 @@ Besides the named mounts below, the stables are home to several Clydsdale horses
 
 - Lunate: An edgy wolf with a black pelt and red eyes. One of the newer arrivals to the stables, but now a constant presence. Lunate is a mixed breed Winter wolf, though his other half of genes is unknown. Despite being cold and distant from the rest of the pack, he is surprisingly easy to work with, and is now used to train beginners in wolf-riding. Due to his lineage, Lunate lacks the spellcasting abilities of the other wolves, but possesses sharper senses and a natural understanding of Infernal.
 
-<iframe src="https://open.spotify.com/embed/user/isittooshortornotavailable/playlist/6wIODD70QvgphnOsFpyCba" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/0yn6s074G62Ti2KqKDdsGU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
