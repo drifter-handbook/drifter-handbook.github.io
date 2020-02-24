@@ -23,6 +23,9 @@ A powerful relic created by the Snowdog and gifted to Savvy. The mask appears to
 False Voice (Lv 1):
 Whenever the user casts a music-based spell, roll a d20. On an 18 or above, the spell is cast twice at no cost to the user.
 
+False Tongue (Lv 1):
+User can now speak and understand Elven. Reading/Writing is excluded from this.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
