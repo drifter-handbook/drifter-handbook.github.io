@@ -3,7 +3,7 @@ layout: post
 title:  "Stables of the Northern Keep"
 date:   2017-01-12
 excerpt: "The toughest mounts available in all the Nine realms."
-image: /images/capitalPic.png
+image: /images/stablesPic.png
 tag:
 - fly by night
 - places 
