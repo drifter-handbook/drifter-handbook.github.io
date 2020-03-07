@@ -26,6 +26,9 @@ User can choose to convert any attack damage type of theirs into Cold or Fire da
 Bayden's Bite (Lv 1):
 On a Nat20, the user's damage is tripled instead of doubled.
 
+Scholar of the Northern Lights (Lv 1):
++5 boost to History. User can now swap investigation checks with history checks (in applicable cases)
+
 Restored Relic:
 This artifact cannot be destroyed.
 
