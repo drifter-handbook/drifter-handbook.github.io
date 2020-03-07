@@ -27,6 +27,8 @@ Coin Mimic (lv 1): A small demon that perfectly resembled a gold coin when resti
 
 Remoraz (lv 1): A centipede-like creature that lays perfectly still. It seems very hungry, and anything it swallows begins to melt in its stomach. It's still very young.
 
+Executioner's Axe (lv 1): An enchanted silver blade. When weilded by a silver hand, the user gains advantage on non-combat chopping actions (such as breaking down doors or walls).
+
 Restored Relic:
 This artifact cannot be destroyed.
 
