@@ -20,8 +20,14 @@ A powerful relic created by the Snowdog and gifted to Myth. Several braids hold 
 
 ### Effect
 
-Coldfire (Lv 1):
-User can choose to convert any attack damage type of theirs into Cold damage.
+Coldfire (Lv 2):
+User can choose to convert any attack damage type of theirs into Cold or Fire damage.
+
+Bayden's Bite (Lv 1):
+On a Nat20, the user's damage is tripled instead of doubled.
+
+Scholar of the Northern Lights (Title):
++5 boost to History. User can now swap investigation checks with history checks (in applicable cases)
 
 Restored Relic:
 This artifact cannot be destroyed.
