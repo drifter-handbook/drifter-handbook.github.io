@@ -3,7 +3,7 @@ layout: post
 title:  "The Snowdog"
 date:   2014-01-6
 excerpt: "The Blue Chaotic Lord"
-image: /images/bluePic.png
+image: /images/bluePage.png
 tag:
 - fly by night
 - immortals
