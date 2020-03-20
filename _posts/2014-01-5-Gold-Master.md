@@ -23,7 +23,7 @@ Little is known about Gold Master and his relation to the Chaotics, beyond his a
 
 Guildmaster wields the yellow disgraced blade. It stands at five feet tall, and holds one soul. Through no discernable means, he is also able to control a storm of needles. Most confrontations with Guildmaster begin with a needle against the questioner's eye. In wartime, he was known for walking into battles casually with five hundred needles flurried around him, reducing anyone in the way to a bloodied pulp.
 
-Though considered the weakest of the Chaotics, Guildmaster is also the most irrational. Whereas The Snowdog is guided by what is right, Bytor by his bloodlust, and Aster by his judgement… Guildmaster's wants and needs change constantly. As such, he has a high level of attendants who serve him in secrecy. These people can be anyone, since Guildmaster's whims can change and align with even the most devout man's quest. Some say his secrecy is a front, but others believe he hides secrets from the other Chaotics and makes himself lowlier than he truly is.
+Though considered the weakest of the Chaotics, the Gold Master is also the most irrational. Whereas The Snowdog is guided by what is right, Bytor by his bloodlust, and Aster by his judgement… the Gold Master's wants and needs change constantly. As such, he has a high level of attendants who serve him in secrecy. These people can be anyone, since the Gold Master's whims can change and align with even the most devout man's quest. Some say his secrecy is a front, but others believe he hides secrets from the other Chaotics and makes himself lowlier than he truly is.
 
 He has two children. Nothing is known about them besides their masks of the silver rat and the gold cat. They fight with the Nine.
 
