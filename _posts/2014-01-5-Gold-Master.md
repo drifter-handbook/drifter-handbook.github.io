@@ -19,7 +19,7 @@ The Gold Chaotic, who has no say in any matter in Nida, yet stakes his claim in 
 
 ### Mythos
 
-Little is known about Gold Master and his relation to the Chaotics, beyond his acts among them. The first story of him recounts of his attack on the monastery in which the Red Monk was raised. This was the first encounter between them when they were children, and no one knows who won the ensuing fight. All they know is that afterwards, the theif and the monk made their peace and set out together to find the North. 
+Little is known about Gold Master and his relation to the Chaotics, beyond his acts among them. The first story of him recounts of his attack on the monastery in which the Red Monk was raised. This was the first encounter between them when they were children, and no one knows who won the ensuing fight. All they know is that afterwards, the theif and the monk made their peace and set out together to find the North.  
 
 Guildmaster wields the yellow disgraced blade. It stands at five feet tall, and holds one soul. Through no discernable means, he is also able to control a storm of needles. Most confrontations with Guildmaster begin with a needle against the questioner's eye. In wartime, he was known for walking into battles casually with five hundred needles flurried around him, reducing anyone in the way to a bloodied pulp.
 
