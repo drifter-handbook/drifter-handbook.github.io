@@ -3,7 +3,7 @@ layout: post
 title:  "The Gold Master"
 date:   2014-01-5
 excerpt: "The Gold Chaotic"
-image: /images/goldPic.png
+image: /images/goldPage.png
 tag:
 - fly by night
 - immortals
