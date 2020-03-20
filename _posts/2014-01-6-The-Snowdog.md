@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Snowdogr"
+title:  "The Snowdog"
 date:   2014-01-6
 excerpt: "The Blue Chaotic Lord"
 image: /images/bluePic.png
