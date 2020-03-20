@@ -29,6 +29,6 @@ He has two children. Nothing is known about them besides their masks of the silv
 
 ### Drifters
 
-The Gold Master chose Texas to represent him among the Drifters. It is also known that Solidago, the woman who creates the portals which bring the Drifters to the North, serves the Gold Master and aligns her wishes with his. His true location, however, is unknown.
+The Gold Master chose Texas to represent him amongst the Drifters. It is also known that Solidago, the woman who creates the portals which bring the Drifters to the North, serves the Gold Master and aligns her wishes with his. His true location, however, is unknown.
 
 <iframe src="https://open.spotify.com/embed/playlist/0MhuD3FTK6NgZHTbLW1SPF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
