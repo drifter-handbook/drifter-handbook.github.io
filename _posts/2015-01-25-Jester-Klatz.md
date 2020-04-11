@@ -47,16 +47,13 @@ The patronage of various local rulers and deities in these new realms has afford
 However, like many before him, his good fortune was no accident, each action subtly progressing the machinations of an unknown entity.The Usurper-God’s plans may yet bear fruit....
 
 
-
 ### Relationships
 
 - Mytherius Orthello Casimir II: Klatz has a deep disdain for the cowardly mage. He is a man that flails against his destiny, and openly expresses his distaste for  and oppose Klatz’s work. His death will not be a pleasant one. Klatz will see to that.
 
-- Solidago: Klatz does not know if Solidago knows he stole the key that has brought him to the North, or if that was her plan from the beginning. To him, it matters little. Her knowledge of the nature of the multiverse is intriguing, and may prove useful in the future, so long as she does not impede his work.
+- The Drifters: Among the Drifters, Klatz is a stranger in a strange land. Thye homes and ways are so different, not only from Klatz but from each other. Though he prefers to work alone, their blatant tolerance of his craft is a welcome change from having to work from the shadows on Halcyon. Their goals are quite different, but assisting them may prove to be mutually beneficial. To shake a hand is to double one’s power.
 
--The Drifters: Among the Drifters, Klatz is a stranger in a strange land. Thye homes and ways are so different, not only from Klatz but from each other. Though he prefers to work alone, their blatant tolerance of his craft is a welcome change from having to work from the shadows on Halcyon. Their goals are quite different, but assisting them may prove to be mutually beneficial. To shake a hand is to double one’s power.
-
--The Golden Master: A true patron of the arts! The Golden Master has Klatz’s undying loyalty. It is in the symbiotic relationship of the Patron and the Artist that truly Great Works are created...
+- The Golden Master: A true patron of the arts! The Golden Master has Klatz’s undying loyalty. It is in the symbiotic relationship of the Patron and the Artist that truly Great Works are created...
 
 And add songs to the spotify playlist below.
 If you want to hide a short story in this page, let me know and I"ll set up a hidden link.
