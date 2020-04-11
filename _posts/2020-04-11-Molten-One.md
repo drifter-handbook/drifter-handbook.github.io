@@ -8,17 +8,34 @@ tag:
 - drifter 
 ---
 
-## T̷̸̸̵̸̴̶̸̶͉̼̜̐͒̕ȟ̸̸̶̸̴̷̷̡̻ͅe̸̸̸̴̴̴̸̷̥̘̟̗̔ ̸̵̶̷̷̷̶̷̛̺̏̈̆U̶̸̵̴̴̸̴̴̷̷̷̱̱͍͎̽̎̐͂s̷̷̴̷̴̶̸̸̬̄̌̐͝ǘ̷̶̶̵̷̸̶̵̧̮̗̅ŗ̸̶̵̷̷̶̵̘͒̽p̶̵̴̵̶̵̻̺͝ȅ̸̶̷̴̶̴̴̵̫̝̞͠r̵̶̴̸̸̶̴̵̸̨̻̭͎͑̾-̸̵̶̷̷̸̵̴̸̧̖̗̬̎͝Ǵ̷̸̷̵̵̷̷͍̍̉o̸̵̶̸̷̶̷̸̴̷̭̻͔̎̔̐̕ḍ̵̸̷̶̷̵̵̩̽͛
+## ![T̷̸̸̵̸̴̶̸̶͉̼̜̐͒̕ȟ̸̸̶̸̴̷̷̡̻ͅe̸̸̸̴̴̴̸̷̥̘̟̗̔ ̸̵̶̷̷̷̶̷̛̺̏̈̆U̶̸̵̴̴̸̴̴̷̷̷̱̱͍͎̽̎̐͂s̷̷̴̷̴̶̸̸̬̄̌̐͝ǘ̷̶̶̵̷̸̶̵̧̮̗̅ŗ̸̶̵̷̷̶̵̘͒̽p̶̵̴̵̶̵̻̺͝ȅ̸̶̷̴̶̴̴̵̫̝̞͠r̵̶̴̸̸̶̴̵̸̨̻̭͎͑̾-̸̵̶̷̷̸̵̴̸̧̖̗̬̎͝Ǵ̷̸̷̵̵̷̷͍̍̉o̸̵̶̸̷̶̷̸̴̷̭̻͔̎̔̐̕ḍ̵̸̷̶̷̵̵̩̽͛](https://github.com/drifter-handbook/drifter-handbook.github.io/blob/master/images/demontext.gif "N̸̼̣̰̱̬̹̮̝̯̱͔̾̉͋͂͂͗̓̆̉̚͠E̴̢̛̺̼͖̰̭̠̖̳̙̮̔̏̓̒Ṽ̶̧̛̮̤͍͔̭͔͕̮͈͙͕̭̏̈͐́̂̃̆̈́̊̚Ĕ̷̩̗̱̬̘̠̭̱̳̥̅R̵̢̢̛̝͖͇̞͚̣̻̰͓̲̖̓̒͛̿̈̽͗̐̒͑̓̂͗B̶̺̖̟̯̝͚̯̩͖̻̪̽̅̉̀͐̅͠L̸̹̜͈̭̺͑̄̌͂̆̓̀ͅI̸͉̲̩̰̗͙̩̫̻͉͚͈̒Ň̸̨̮̲͇̤̺͙̈́̅̈́͛̓̚K̴̛̝͙̫͛͐̆͗̿̒̑̀I̴̧̬̗̻͍̫͍̲̅̀̿̄̐̆̊N̴͈͈̮̱̞͎̘̉̅̀͑̎͋̈̒̈́̏́̄̚͠Ĝ̴̭̬̖͐͑̿Ạ̵͙̼̲̉̿̂̇͐̒͑̅͘͘̚L̵̡͈̮̪̩͈̖̹̭̾̆̃̎̃̅̎͜W̴̺͖̱̠̲͓̮̓͛́̀̈́̅̈́̚͘͠A̷̡̺̐̀͂͌̾̇̈͋̕Y̵̮̺͎̞̣̤̩̭̦̳͑S̶̡̱̮͉̼̭͙̰͍͔̟̯̜͂̉̅̆̈́̾̚W̶̢̝͚̯͈̌͌̅̅̾͌̈́̍̽͒̇͘͜͠͠A̶̞̍̓̄̉̚T̶̙̜̖̩̩̗̰̪͚̂̊̄͛͐͗̈́̈̀̃̈́͝Ç̷̢̛͇̹̩̗̒H̷̟̹̩̟̗̞̪̯̺̙̻͑̍̀̋͠I̷̼͉̪̦̜͓̅̉́̈́̀̔̿̉N̴̢̮̘͓̹͇̖̬̥̝̥̤̍̀͊̕G̵̗̮̱̜͖̋̃̈́̌̌̂͑̎̇́̚͝͝Ņ̴̆̌͋̇͑̽̈́̄̊̑͠͠͝E̷̢̨̛͈̰̬̤̯̖̹̘͆̐̒̃́͆̈͐͊̕͝V̴̪̎Ę̶͕̼͙͙͖̤͓̪̦̑̇̓̉̈́̿̆̓̏̌͠ͅR̷͉̥͐̔̊͋̒B̸̘̍̆̈́͒̓́̌̕͝ͅL̴̠͍̟̬͔̤̜̣̩̓̒̈́͛́̒͌̿͝͝Ḯ̴̤̰͗̏̈́̂N̸̢̼̳͚̩͈͕͉͙̭͖͙͑͛͒̂̆̀̑̑̔̃͛̀̂ͅK̴̡̞͉̙͚̥͇̲̞̘͙̾̾̓ͅͅI̷͙̪̩̤͈͎̺̱̻̼̒͊̿̓̇͆N̸͖̤̟̣̬̜̬͐͗̀̃͋͌̑͊̓̅̏̕͝G̷̢͒͌̔̄͌͘͝ͅA̸͉̟͙̤͉̪͍̙͓̥̓͌͑̇̚L̵̦̳̙̲̜̫̍́̾̄̌̃͌̈́͐͋̏͋̍͘W̷̱̰̼̹̰̰͎̫̥̥͎̥͌̎͌̀̄̅̍̔̆̎͛̽̋A̶̧̩͐Y̴̪͔͗͗̔͛͆̏͐̊̉̈͐͜͠S̴̫̟̱̫̗̭̘͍̘̅̍͜W̶̧̞̱̪̎̾̊͛̀̐̿A̴̡͖̳̺̞͔͑̏͌̈́̏̈̉̕͝T̴̺̊̉Č̷̡̞̗̳͙̩̰̳̒͊̎͑̐̐̚̕͜͝ͅͅḦ̶̛͈̪͔̮̖̘̠̱́̔̀̓̑͐̈́̔̚̚ͅÌ̸͉̳̦̰̩̃̏Ñ̴̨̞̬͈̻͈̼̤̲̗̑̅̓͛̀͋̒̽́̚G̸̖̙̝̳̥̔̇̅́̎")
 
 Campaign: Ȋ̶̴̷̶̵̵̴̵̸̴̴̠͓̕ ̵̴̶̸̸̴̶̶̶̴̶͓̘̋̓Ȁ̴̴̸̷̷̵̸̶̸̸̸̦̪̎M̶̸̸̷̶̸̶̸̸̷̶̡͓͂̊ ̶̴̶̸̵̵̵̶̴̵̴̣̯̀̾E̶̴̵̶̴̶̴̶̴̸̴̤̰͂̑V̶̸̶̷̴̴̴̶̴̷̷̢̭͗̃Ë̷̶̵̴̴̸̸̵̵̷̴̝̯̀Ř̸̶̵̴̷̷̷̴̶̵̵̻̹̄Ỵ̸̸̶̷̸̷̸̴̴̷̷̧̌̈́W̵̷̶̵̶̷̷̷̷̸̴̨̍̕ͅH̸̸̸̷̸̸̷̵̵̷̸̘̝̅̀Ḙ̷̸̴̸̸̸̴̵̸̵̵̜̑͑R̶̶̶̸̴̷̷̵̶̴̵̘͖̽̎Ĕ̵̴̷̷̷̴̷̴̶̷̵͖̙͐
 
 ### Personality
 
+he waits and watches and bides his time in cracks in reality 
+NEVERBLINKINGALWAYSWATCHINGNEVERBLINKINGALWAYSWATCHING
+
+
 ### Description
+the watcher stirs the world quivers in anticipation
+>! ASWITHOUTSOWITHINASWITHOUTSOWITHINASWITHOUTSOWITHIN
+
 
 ### Story
 
+he looked upon himself and trembled and shook until he is not was not what he saw
+
+he saw what he was not the one beyond many and he was still
+
+ENDLESSNAMELESSENDLESSNAMELESSENDLESSNAMELESS
+
 ### Drifters
+
+he of many mouths speaks we bow in awe and we are crushed
+
+the fool does not bend the fool stands the fool questions the fool is unwritten
 
 ### Relationships
 
