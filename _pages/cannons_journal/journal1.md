@@ -18,7 +18,11 @@ These four individuals have long since abandoned their humanity and dedicated th
 I have dedicated my life to tracking them so that I may one day kill them. Only when they are dead can the Freshtovian people be freed.
 
 **The Four Heads**
+
 **George Foreman**, head of ~~Truth and Ideas~~ Propaganda
+
 **Dr. Keurig**, head of ~~Resources and Disassembly~~ Assassination
+
 **Mr. Clean**, head of ~~Cleansing and Sanitation~~ Ethnic Cleansing
+
 **Sam Sung**, head of ~~Production and Labor~~ Enslavement
