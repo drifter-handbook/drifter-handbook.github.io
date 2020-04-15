@@ -40,7 +40,7 @@ Since then, he has been making a living by traveling across the land, making a l
 
 Drifter Cannon did not meet up with the drifters until after they had returned from the French-Fry forest. His first action was to work with the Drifters to rig a pig race during Queen Wendy's 50th-year festival. He covered himself with a pink blanket and pretended to be a pig in the race, winning them all a substantial amount of gold.
 
-After that, Drifter Cannon joined the Drifters, even accepting a quest from Queen Wendy herself. Despite his outward acceptance of Queen Wendy's actions, he continues to record his observations on Queen Wendy's regime in his journal, and plans to one day enact his plan to destroy her secret police and remove her from the throne.
+After that, Drifter Cannon joined the Drifters, even accepting a quest from Queen Wendy herself. Despite his outward acceptance of Queen Wendy's actions, he continues to record his observations on Queen Wendy's regime in his <a href="https://drifter-handbook.github.io/cannons_journal/page1">journal</a>, and plans to one day enact his plan to destroy her secret police and remove her from the throne.
 
 ### Relationships
 
