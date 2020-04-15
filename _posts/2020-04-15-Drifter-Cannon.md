@@ -5,7 +5,7 @@ date:   2020-4-15
 excerpt: "A sentient cannon out for revenge."
 image: /images/cannon.png
 tag:
-- feast-of-legends
+- Feast of Legends
 - drifter 
 ---
 
