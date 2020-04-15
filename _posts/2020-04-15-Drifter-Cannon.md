@@ -45,6 +45,9 @@ After that, Drifter Cannon joined the Drifters, even accepting a quest from Quee
 ### Relationships
 
 - Reed: Seems to share his distaste towards Queen Wendy and her regime.
+
 - Carol Baskins: Enjoys causing chaos, and seems like someone Drifter Cannon can agree with.
+
 - Quart Tart: His loyalty to Freshtovia may put him in direct conflict with Drifter Cannon's goals.
+
 - Herbert Muenster: Does not understand.
