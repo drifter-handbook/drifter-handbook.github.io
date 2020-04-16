@@ -58,4 +58,4 @@ However, like many before him, his good fortune was no accident, each action sub
 And add songs to the spotify playlist below.
 If you want to hide a short story in this page, let me know and I"ll set up a hidden link.
 
-<iframe src="https://open.spotify.com/embed/playlist/1b0ToBHOJuwcW7GeESi6A6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/playlist/1hs9tFnz4dIR4UgCophOKf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
