@@ -19,7 +19,7 @@ I have dedicated my life to tracking them so that I may one day kill them. Only 
 
 **The Four Heads**
 
-**George Foreman**, head of ~~Truth and Ideas~~ Propaganda
+[**George Foreman**, head of ~~Truth and Ideas~~ Propaganda](/cannons_journal/page2.html)
 
 **Dr. Keurig**, head of ~~Resources and Disassembly~~ Assassination
 
