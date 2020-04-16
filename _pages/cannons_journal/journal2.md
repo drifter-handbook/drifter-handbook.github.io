@@ -15,4 +15,6 @@ Foreman's division is known to secretly arrest anyone with dissenting ideas and 
 
 Foreman is also in charge of keeping the people of Freshtovia unaware of Freshtovia's actions abroad, such as its invasion and subsequent enslavement of the Machine nations.
 
-![Wendy's 50th-Year Festival Poster](/images/wendyposter.png "Poster collected by Drifter Cannon from Queen Wendy's 50th Year Festival")
+| ![Wendy's 50th-Year Festival Poster](/images/wendyposter.png) | 
+|:--:| 
+| *Propaganda Poster collected by Drifter Cannon from Queen Wendy's 50th Year Festival* |
