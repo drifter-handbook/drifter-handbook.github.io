@@ -5,13 +5,13 @@ date:   2015-01-30
 excerpt: "A Broken Man From A Broken Land"
 image: /images/HerbertMansteur.png
 tag:
-- wendy's
+- Feast of Legends
 - drifter 
 ---
 
 ## Herbert Mansteur, The Mad Prophet
 
-Campaign: Wendy's
+Campaign: Feast of Legends
 
 ### Personality
 
