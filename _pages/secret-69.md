@@ -4,6 +4,7 @@ title:  "Snows the Skeleton"
 date:   2020-4-17
 excerpt: "The easiest enemy."
 image: /images/snows.png
+permalink: /snows.html
 tag:
 - \???
 - immortals
