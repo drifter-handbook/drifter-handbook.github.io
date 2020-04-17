@@ -55,7 +55,4 @@ However, like many before him, his good fortune was no accident, each action sub
 
 - The Golden Master: A true patron of the arts! The Golden Master has Klatz’s undying loyalty. It is in the symbiotic relationship of the Patron and the Artist that truly Great Works are created...
 
-And add songs to the spotify playlist below.
-If you want to hide a short story in this page, let me know and I"ll set up a hidden link.
-
 <iframe src="https://open.spotify.com/playlist/1hs9tFnz4dIR4UgCophOKf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
