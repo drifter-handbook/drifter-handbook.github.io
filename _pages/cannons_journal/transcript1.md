@@ -46,5 +46,7 @@ Quart Tart passes over another note.
 
 <i style="font-style: italic;">I've heard rumors of an artifact in this world of cosmic abilities. This item supposedly gives the user the ability to make contact with other worlds. While I have no clue what this artifact looks like, if we can find it then perhaps we will have better luck with collecting information.</i>
 
+**Drifter Cannon:** <i style="font-style: italic;">I would be greatly interested in any artifact that gives me access to more information. There are several individuals I need more information on, and this artifact might be able to help with that. I am willing to help you search for this artifact, so if you have any more information on this matter, let me know.</i>
+
 
 [**Back to Drifter Cannon's Journal**](/cannons_journal/page1.html)
