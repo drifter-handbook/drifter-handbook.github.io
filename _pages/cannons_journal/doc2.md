@@ -3,7 +3,7 @@ layout: post
 title:  "Drifter Cannon's Journal: Quart Tart's Letter"
 date:   2020-4-20
 excerpt: "A secret book that resides inside Drifter Cannon's mouth."
-permalink: /cannonsjournal/doc2.html
+permalink: /cannons_journal/doc2.html
 ---
 
 ## Quart Tart's Letter
@@ -30,6 +30,6 @@ I need to stay in here for as long as I can; the listener struggles to hear in t
 
 The old man who gave this to me, Quart Tart, appears to be a Queen Wendy loyalist. Though this may be a trap, I will not turn down an opportunity to make a new ally. It appears Quart Tart is connected to (and may be a member of) the group called the "Drifters," and he would like me to pass on a warning to the rest of them.
 
-This presents a fantastic opportunity. If I can make allies of the Drifters, it will be significantly easier to achieve my goals. Since the entity who gave me the [Mysterious Note](/cannonsjournal/doc1.html) seems to be reading this journal and is connected to the Drifters, maybe it can help with this matter, whatever it is.
+This presents a fantastic opportunity. If I can make allies of the Drifters, it will be significantly easier to achieve my goals. Since the entity who gave me the [Mysterious Note](/cannons_journal/doc1.html) seems to be reading this journal and is connected to the Drifters, maybe it can help with this matter, whatever it is.
 
-[**Back to Drifter Cannon's Journal**](/cannonsjournal/page1.html)
+[**Back to Drifter Cannon's Journal**](/cannons_journal/page1.html)
