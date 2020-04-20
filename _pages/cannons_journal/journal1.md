@@ -28,3 +28,7 @@ I have dedicated my life to tracking them so that I may one day kill them. Only 
 
 [**Mysterious Note**](/cannons_journal/doc1.html)<br/>
 [**Quart Tart's Letter**](/cannons_journal/doc2.html)<br/>
+
+### Transcripts
+
+[**Conversation with Quart Tart**](/cannons_journal/transcript1.html)<br/>

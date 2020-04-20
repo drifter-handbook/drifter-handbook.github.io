@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Drifter Cannon's Journal: Quart Tart's Letter"
+title:  "Drifter Cannon's Journal: Conversation with Quart Tart"
 date:   2020-4-20
 excerpt: "A secret book that resides inside Drifter Cannon's mouth."
-permalink: /cannons_journal/doc2.html
+permalink: /cannons_journal/transcript1.html
 ---
 
-## Quart Tart's Letter
+## Conversation with Quart Tart
 
-A letter handed to me by an old man named Quart Tart. It reads as follows:
+Quart Tart discreetly puts this letter on drifter cannon. Below this message is an insignia that looks like a face with its mouth sewn shut.
 
-
-<i style="font-style: italic;">Drifter Cannon,</i>
+**Quart Tart:** <i style="font-style: italic;">Drifter Cannon,</i>
 
 <i style="font-style: italic;">I apologize for contacting you like this instead of speaking in person, but due to personal circumstance I cannot speak freely. And I also apologize for using a fake name, I know “Quart Tart” isn’t exactly convincing but creativity isn’t one of my strong suits and I’m taking precautions to protect myself. I would like to keep my identity secret, but if you feel knowing my name is necessary then let me know.</i>
 
@@ -25,13 +24,27 @@ A letter handed to me by an old man named Quart Tart. It reads as follows:
 
 <i style="font-style: italic;">"Quart Tart"</i>
 
+You see Drifter Cannon gulp down the note, and you hear the rustling of paper from within the cannon barrel.
 
-### Drifter Cannon's Comments
+The cannon then takes out a book, and flips it to [this page](/cannons_journal/doc2.html).
 
-The old man who gave this to me, Quart Tart, appears to be a Queen Wendy loyalist. Though this may be a trap, I will not turn down an opportunity to make a new ally. It appears Quart Tart is connected to (and may be a member of) the group called the "Drifters," and he would like me to pass on a warning to the rest of them.
+**Drifter Cannon:** <i style="font-style: italic;">I don't know much about you Drifters, but whoever you are, you have a powerful ally watching what I write in this book. I put your letter in there, and hopefully, it'll get to your friends. But, out of curiosity, who are you really, Quart Tart? Are you one of these Drifters from another world?</i>
 
-This presents a fantastic opportunity. If I can make allies of the Drifters, it will be significantly easier to achieve my goals. Since the entity who gave me the [Mysterious Note](/cannons_journal/doc1.html) seems to be reading this journal and is connected to the Drifters, maybe it can help with this matter, whatever it is.
+Quart Tart thinks for a minute, then nods and writes a quick note.
 
-I had a conversation with Quart Tart after receiving this message. [I recorded the transcript here.](/cannons_journal/transcript1.html)
+**Quart Tart:** <i style="font-style: italic;">Some of my dear family are drifters, the Aerondight legacy is plentiful in the drifter world though we tend to keep a low profile. One day, I'll be one too. My turn is coming soon, I must be ready for when that time comes.</i>
+
+<i style="font-style: italic;">To be short, no I'm not from Freshtovia. I'm afraid that's all I'm willing to say on the matter as I must keep my loyalist appearances up.</i>
+
+**Drifter Cannon:** <i style="font-style: italic;">Whatever this entity is, it appears to be incredibly powerful, since it is able to read my journal even while it is inside my mouth, and it can create and remove pages from the journal whenever it likes. However, I did receive [this note from it](/cannons_journal/doc1.html).</i>
+
+<i style="font-style: italic;">It appears to be friendly, or at least benign. I know it is connected to you Drifters from the pages it sometimes leaves behind for me to read, describing the various members of the Drifters. Maybe you know what this entity might be?</i>
+
+Quart Tart passes over another note.
+
+**Quart Tart:** <i style="font-style: italic;">While there are many stone beings, there are few sentient metal beings I am aware of in relation to the drifters. There's [Velvet](/Velvet), a humanoid metal being with a kind soul, though this message doesn't seem to line up with her manner of speaking. The only other pure metal being I am aware of is the [Nefarious Wheel](/Nefarious-Wheel), but by that title alone I wouldn't necessarily consider the wheel an ally. I will keep my ears open and find out what I can.</i>
+
+<i style="font-style: italic;">I've heard rumors of an artifact in this world of cosmic abilities. This item supposedly gives the user the ability to make contact with other worlds. While I have no clue what this artifact looks like, if we can find it then perhaps we will have better luck with collecting information.</i>
+
 
 [**Back to Drifter Cannon's Journal**](/cannons_journal/page1.html)
