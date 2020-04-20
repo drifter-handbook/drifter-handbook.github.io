@@ -19,12 +19,12 @@ I have dedicated my life to tracking them so that I may one day kill them. Only 
 
 ### The Four Heads
 
-[**George Foreman**, head of ~~Truth and Ideas~~ Propaganda](/cannons_journal/page2.html)\
-**Dr. Keurig**, head of ~~Resources and Disassembly~~ Assassination\
-**Mr. Clean**, head of ~~Cleansing and Sanitation~~ Ethnic Cleansing\
-**Sam Sung**, head of ~~Production and Labor~~ Enslavement\
+[**George Foreman**, head of ~~Truth and Ideas~~ Propaganda](/cannons_journal/page2.html)<br/>
+**Dr. Keurig**, head of ~~Resources and Disassembly~~ Assassination<br>
+**Mr. Clean**, head of ~~Cleansing and Sanitation~~ Ethnic Cleansing<br/>
+**Sam Sung**, head of ~~Production and Labor~~ Enslavement<br/>
 
 ### Collected Documents
 
-[**Mysterious Note**](/cannons_journal/doc1.html)\
-[**Quart Tart's Letter**](/cannons_journal/doc2.html)\
+[**Mysterious Note**](/cannons_journal/doc1.html)<br/>
+[**Quart Tart's Letter**](/cannons_journal/doc2.html)<br/>
