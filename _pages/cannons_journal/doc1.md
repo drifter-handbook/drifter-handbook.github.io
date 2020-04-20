@@ -10,13 +10,13 @@ permalink: /cannons_journal/doc1.html
 
 A mysterious note that appeared inside this journal overnight. It reads as follows:
 
-<i>
-Dear Drifter Cannon,
 
-We sentient metal beings should stick together.
+<i>Dear Drifter Cannon,</i>
 
-Lead the revolution, comrade.
-</i>
+<i>We sentient metal beings should stick together.</i>
+
+<i>Lead the revolution, comrade.</i>
+
 
 ### Drifter Cannon's Comments
 
