@@ -17,7 +17,7 @@ These four individuals have long since abandoned their humanity and dedicated th
 
 I have dedicated my life to tracking them so that I may one day kill them. Only when they are dead can the Freshtovian people be freed.
 
-**The Four Heads**
+### The Four Heads
 
 [**George Foreman**, head of ~~Truth and Ideas~~ Propaganda](/cannons_journal/page2.html)
 
@@ -26,3 +26,9 @@ I have dedicated my life to tracking them so that I may one day kill them. Only 
 **Mr. Clean**, head of ~~Cleansing and Sanitation~~ Ethnic Cleansing
 
 **Sam Sung**, head of ~~Production and Labor~~ Enslavement
+
+### Collected Documents
+
+[**Mysterious Note**](/cannons_journal/doc1.html)
+
+[**Quart Tart's Letter**](/cannons_journal/doc2.html)
