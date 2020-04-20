@@ -3,20 +3,20 @@ layout: post
 title:  "Drifter Cannon's Journal: Mysterious Note"
 date:   2020-4-20
 excerpt: "A secret book that resides inside Drifter Cannon's mouth."
-permalink: /cannons_journal/doc1.html
+permalink: /cannonsjournal/doc1.html
 ---
 
 ## Mysterious Note
 
 A mysterious note that appeared inside this journal overnight. It reads as follows:
 
+<i>
+Dear Drifter Cannon,
 
-_Dear Drifter Cannon,_
+We sentient metal beings should stick together.
 
-_We sentient metal beings should stick together._
-
-_Lead the revolution, comrade._
-
+Lead the revolution, comrade.
+</i>
 
 ### Drifter Cannon's Comments
 
@@ -26,4 +26,4 @@ Following the appearance of this note, it appears some entity has been magically
 
 While these pages are interesting, they do not help me in achieving my current goals. These pages seem to describe entirely different worlds, and I do not know of any man named Swordfrog or girl named Savvy. Until I meet these people, it appears this information will be of little use.
 
-[**Back to Drifter Cannon's Journal**](/cannons_journal/page1.html)
+[**Back to Drifter Cannon's Journal**](/cannonsjournal/page1.html)
