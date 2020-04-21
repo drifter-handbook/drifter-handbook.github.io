@@ -13,7 +13,7 @@ tag:
 Campaign: Wendy's
 
 ### Personality
-Energetic for his age, Quart spends most of his time moving around as he hates staying in one place or being forced to wait for anything. As such, if he can't solve something in a second then he would rather let others deal with it or he will attack it until it disappears. While Quart can be rude to people who inconvenience him, he cares deeply for his allies and can be the best cheering squad as long as his allies aren't doing anything he would consider idiotic or rude. Despite his impatience, Quart can have a solid intuition when it comes to judging other people.
+Energetic for his age, Quart spends most of his time moving around as he hates staying in one place or being forced to wait for anything. As such, if he can't solve something in a second then he would rather let others deal with it or he will attack it until it disappears. While Quart can be rude to people who inconvenience him, he cares deeply for his allies and can be the best cheering squad as long as his allies aren't doing anything he would consider idiotic or rude. Despite his impatience, Quart can have a solid intuition when it comes to judging other people. And if one is careful at watching the old man when he believes nobody is around, they may discover more than meets the eye.
 
 ### Description
 A quirky man in his late 50's, wearing patched up wizard robes. His hair is peppered black and shaved short, likely to contrast his unkempt and unsightly mangled beard.
@@ -29,9 +29,15 @@ The two eventually decide to visit the gardens to admire the golden statue and s
 
 Though his riddle-solving skills are horrendous in the French Fry Forest, Quart more than proves his worth in combat. Relying on a confused and dejected healer Reed and fighting alongside an ice queen that refuses to use a proper weapon, Quart shines on the battlefield by using his proper weapons and spells that all good Freshtovia wizards are taught to use.
 
+On returning to Freshtovia, Quart Tart participated in the festivities with the rest of the group and did his best to rig the pig race. He also attempted the strongman challenge with a plastic utensil, which went about as expected. He is aghast at the implications that there is a secret police and tried his best to shut down such conversation. Despite his loyalty, he was aghast at the lack of safety protocol enacted with the frosty lakes and wonders why Wendy didn't enact rules regarding safe consumption.
+
 ### Relationships
 -Queenie: Perhaps an example of opposites attract, the sometimes rude but well-meaning Quart enjoys spending time with the ice queen. While he disapproves of some of her actions, Quart respects Queenie and takes her opinions into consideration during their adventures.
 
 -Reed: Their past relationship is currently not common knowledge, though based on Quart's behavior it seems to have been a decent friendship or alliance. The current relationship is one-sided as Reed cautiously adjusts to Freshtovia and Quart.
+
+-Drifter Cannon: They appear to be friendly towards one another, but Quart Tart's steadfast loyalty to Freshtovia may fall in direct conflict with the metal one.
+
+-Herbert Muenster: While thankful for his assistance with his arm, after that day Quart Tart is visibly nervous around Muenster.
 
 <iframe src="https://open.spotify.com/embed/playlist/4DdBNJLMfHuQ8zm1XyH9WR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
