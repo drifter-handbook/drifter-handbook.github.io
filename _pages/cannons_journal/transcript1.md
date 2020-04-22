@@ -48,5 +48,9 @@ Quart Tart passes over another note.
 
 **Drifter Cannon:** <i style="font-style: italic;">I would be greatly interested in any artifact that gives me access to more information. There are several individuals I need more information on, and this artifact might be able to help with that. I am willing to help you search for this artifact, so if you have any more information on this matter, let me know.</i>
 
+**Quart Tart:** <i style="font-style: italic;">Unfortunately a rumor is all we currently have to go on. I believe the best course of action at this point is to continue out current mission and keep our senses alert and try to gather whatever information we can from the locals. I'll let you know the second I find out anything.</i>
+
+<i style="font-style: italic;">And please forgive my possibly ridiculous future actions, I must continue to act as Quart Tart to conceal myself. I hope you understand.</i>
+
 
 [**Back to Drifter Cannon's Journal**](/cannons_journal/page1.html)
