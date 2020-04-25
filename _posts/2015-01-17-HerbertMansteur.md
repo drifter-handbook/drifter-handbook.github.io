@@ -19,7 +19,7 @@ Herbert Mansteur is a sweet, gentle man from the frozen south of the Deep Freeze
 
 ### Description
 
-Years of living in the Deep Freeze have honed Mansteurs body and practical skills, but have left him illiterate and somewhat ignotant of freshtovian etiquite. His tall, imposing figure is only further accentuated by the heavy tribal furs that halo his shaven head. His booming voice belies his reserved nature, thouhg he often has dificulty controling its volume. 
+Years of living in the Deep Freeze have honed Mansteurs body and practical skills, but have left him illiterate and somewhat ignotant of freshtovian etiquite. His tall, imposing figure is only further accentuated by the heavy tribal furs that halo his shaven head. His booming voice belies his reserved nature, though he often has difficulty controling its volume. 
 
 ### Story
 
@@ -45,6 +45,3 @@ And this is anything that's happened in ur life since you became a drifter.
 - The Ice Jester: His tribe had words for beings like the Ice Jester, though none of them can be uttered witout bringing great and terrible curses upon oneself. He is evil incarnate, and Mansteur will go to any lenghts to free the Deep Freeze from the Jesters frozen clutches.
 
 -  ̷̩͓̤̒̈̂͑͊͝[H̷̜̄̄͒̓͛̊̈́͌̕͝ ̶̥̹̯͔̖̩̹͇̝̺̖̆̀̾̌̐͆͐̈́͒͐̈́Ĩ̴͙̺̘͠ ̷̢̻̰̫̥̳̰̬̫̼͔̦͋̀̏̌̃̈́̓̑̕Ḿ̴͖̲̠̦͇͜ ](https://drifter-handbook.github.io/Molten-One/):[ ̸̢͇̰̯̭̈̆͑͛ͅE̶͈̖͕̩͎͔̪̩̟̲̞̱͂̾̔̒̈́͂͗̋̽́̕̕͜N̷̡̨̮̹͔̹͓̥̳̣̲̩̾̓̆Ơ̵̡̨̡̫͙̠͍͍̲͓͎͇͓̳̐͂̾͒̕͜U̴̢̓̈́̂͋̓̄͒̾̑͋̿͘͠͠Ģ̴̡̖̹̠͉͛̉̌͌͋̏̂̾̌͗̈̄͑̔̆ͅH̴̢̠̖̘̪̟̘͓̝͉̾̀̋̀̈̽͑̿ͅ ̷̜͖̑͗̾́̿̀͘͝G̷̠͕͓̟̜̟̪̩͙̬͕̩̏̿̂Ä̶̡̛̪́̃͘M̴̡͎̄̀͋͊̅̋̈́̋̏̐̃̌̆͝Ē̶̫̥̩̰͂͛̾̾̑̉̾̾͆S̷̨̧̠̱̘͍̜̣͕͇̠̱̦̄̅̅͊,̴̛̫̎͗͊͗ ̷̢̜̝̻̖̳̥̟̲̦͒̉̉T̵̝̪̪̥͚̹̹̦̭̼̭̦̓̓̓́̉̽̄̒͋̌͐̚͜͝ͅI̵̢͉͈͕͕̩̥̦̭͙͉͎͆̑̊̊̍̓͂͒̅̾̀͠M̸̳̖͈̗͔͉͉͚̂̋̀̒̊̈̈́͌̄͒̒̾̕ͅË̵̡͍̳̲̣̬̥̹̱̩̺̩̓̽́́̌́̓͒͆̏̒̉͝ ̶̧͙̗̘̱̻̙̳̙̖͍͕̦̋͋͂̔T̸̨̝͛̈́̃̈͊̑̌͂̒̔͗̚͘͝Ǫ̶̳̻͎̳͙͉̪̰̞̳̆̓͝ ̸̡̬͇͍̥̙̞̄͆̾̑͐̇̀̓̿̓C̷̢̨͖̱͎͉̗̟͇̣̥̱͓͇̑̈̔̑̑̈́͂̏Ǫ̸̢̹̳͎̺̺͍̪͈̮͍̠̱̈́̀̕ͅM̷̱͖͖̮̘̫̭͉̩̉̽̓̒͐̑̊͛͠ͅE̶̫͇͆̔͝ ̷̧̣̮͖̖̩̦̦̫̱͕͚̣͙̥̃͌͆̿̅̃̈́̌̑͑̕Ḩ̸͎͙͕̤̩̪͇̖̾̋̎͋̽͌̏̚̚͝O̸̢̤̩̜̱̣̱̰̔́̆̉͛͂̆̚ͅḾ̸̢͈̖̰͉̓̌̈́̊̐̅̅̌̽͌̃̌ͅȨ̴̡̧̨̳̗͕̗̘͓͚̍̌̈́̀̚](https://drifter-handbook.github.io/Molten-One/)
-
-
-<iframe src="https://open.spotify.com/embed/playlist/3LqvvvJvmT9kRIp6aydc5i" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
