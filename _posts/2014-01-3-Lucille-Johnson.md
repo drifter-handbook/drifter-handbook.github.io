@@ -25,7 +25,7 @@ Lucielle Johnson always appears in a beige coat and and hat. He appears to be ei
 His sigil is the inverse of that of the drifters, with the two curling points of the sigil extending out of the circle rather than encircling within.
 
 ### Drifters
-First appeared at the carnival, handing out newspapers to the Drifters. After placing the bomb in Nero's chest, he later appeared at the end of the quest, tipping his hat and thanking the drifters once they cleared out the carnival.
+First appeared at the carnival, handing out newspapers to the Drifters. After placing the bomb in [Nero](/nero_fanfiction/chapter1.html)'s chest, he later appeared at the end of the quest, tipping his hat and thanking the drifters once they cleared out the carnival.
 
 Lucielle Johnson later appeared as the barkeep for the Capital Vice Hotel, requesting the drifters go retrieve the baby on the top floor and bring it down. Upon completion of the quest, Lucielle Johnson intended to take the baby back, but after learning of his involvement at the captial, the group labelled the immortal as a sadist who could not be trusted, and instead took the baby to the church down the road.
 
