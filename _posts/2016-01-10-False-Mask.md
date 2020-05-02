@@ -26,6 +26,9 @@ Whenever the user casts a music-based spell, roll a d20. On an 18 or above, the 
 False Tongue (Lv 2):
 User can now speak and understand Elven and Draconic. Reading/Writing is excluded from this.
 
+Heat Sink (Lv 1):
+When you are hit with a fire-based spell, double your base movement speed for the next minute. 
+
 Restored Relic:
 This artifact cannot be destroyed.
 
