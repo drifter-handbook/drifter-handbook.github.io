@@ -26,11 +26,14 @@ As an action, the user can cast Sleep on any single enemy without expending any 
 Dyrim (Lv 1): 
 As an action, user can cast Friends on any animal without expending any spellslots or requiring the spell in the user's spelllist. However, if the spell succeeds, the target loses a set amount of health (decided by the DM) after the spell wears off.
 
+Gadget Bead (Lv 1): +2 on Investigation checks to determine what a mechanical object/creature does.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
 Blue Bane:
-The bearer of this artifact has +2 to hit and +2 damage against any Blue enemies.
+The bearer of this artifact has +3 to hit and +3 damage against any Blue enemies.
+
 
 ### Feats
 
