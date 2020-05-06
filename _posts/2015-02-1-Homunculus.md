@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Orro's Homunculus"
-date:   2015-02-01
+date:   2015-02-1
 excerpt: I just think they're neat/"
 image: /images/clayPic.png
 tag:
