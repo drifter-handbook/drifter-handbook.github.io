@@ -1,4 +1,13 @@
-# Drifter Love
+---
+layout: post
+title:  "Driftwood Love"
+date:   1969-06-1
+excerpt: "???"
+image: /images/emblemPic.png
+permalink: /DriftwoodLove.html
+---
+
+# Driftwood Love 
 ## Chapter 1
 The forest was alight with the sounds of nature, a choir made out of the humming of cicadas and bright chirping of birds flying in and out of their nests, their plumages a beautiful mix of the colors of early spring. It was that time of the year when mothers taught their offspring to walk, run, and fly, no matter what species they were. Tiny birds would flap their wings in effort, little rabbits would hop tentatively after their brothers and sisters, and even the forest lynx cubs were learning how to stalk and hunt, their little growls hardly intimidating to even a squirrel just yet.
 There was only a light breeze in the air and not a cloud in the sky; in other words, a perfect spring day for all animals to break out of their nesting.
