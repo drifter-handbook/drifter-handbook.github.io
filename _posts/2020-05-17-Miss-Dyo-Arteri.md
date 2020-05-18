@@ -28,13 +28,13 @@ The party made short work of a homeless cannibal and ended up killing the Maldov
 
 It is unknown what happened to her companions and her mission.
 
-###Fly By Night
+### Fly By Night
 
 Dyo was sent a letter from the demon lord of the north By-Tor, an impressive feat considering Dyo was in the complete wilderness and gave no indications to anyone where she was located. Sensing an opportunity to once again attempt to make a name for herself after the failed Nuova invasion, as well as being irritated by the pure audacity of the letter and insulting manner By-Tor writes, Dyo accepted By-Tor's call to action and went to Solidago's workshop.
 
 While Dyo hardly understands many of the tasks that By-Tor demands completed, she takes joy in the pure destruction and havoc they cause so she doesn't care what the "why" is. It's possible that By-Tor's requests of arson and indiscriminate murder has worsened Dyo's violent tendencies. Or perhaps a different force entirely is making her more frantic.
 
-###Relationships
+### Relationships
 -Frath Brightwood: The paladin loyalist would get in Dyo's way rather often if her actions weren't deemed "correct". She doesn't miss his company.
 
 -Nemia: A respectable Nuova companion that shares her taste for blood. Dyo doesn't completely dislike her.
