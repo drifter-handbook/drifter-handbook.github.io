@@ -3,7 +3,7 @@ layout: post
 title:  "Rammstein and Heinrich"
 date:   2015-01-05
 excerpt: "Goblin Gurus Peddling Gains and God"
-image: /images/goblinBoisClean.png
+image: /images/RandH.png
 tag:
 - illumina
 - drifter 
