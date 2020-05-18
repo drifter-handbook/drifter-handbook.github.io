@@ -36,11 +36,17 @@ While Dyo hardly understands many of the tasks that By-Tor demands completed, sh
 
 ###Relationships
 -Frath Brightwood: The paladin loyalist would get in Dyo's way rather often if her actions weren't deemed "correct". She doesn't miss his company.
+
 -Nemia: A respectable Nuova companion that shares her taste for blood. Dyo doesn't completely dislike her.
+
 -Mytharius Orthello Casimir II: While she despises his cowardice, Dyo has come to appreciate his mail services.
+
 -Nero: After forcing her to make a promise to him before saving her life, Dyo dislikes the Roman.
+
 -Jester Klatz: While initially respecting his murderous tendencies, Dyo looks down upon him for agreeing to let his arm be chopped off and running to the Gold Master.
+
 -Down: Dyo dislikes Down because she lost to him at the tournament. She intends to force a rematch in the future.
+
 -Everybody: More likely than not, Dyo dislikes you. It's nothing personal.
 
 <iframe src="https://open.spotify.com/embed/playlist/2AoiYKemJ6Gt3WwK7nxHCH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
