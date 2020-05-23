@@ -3,7 +3,7 @@ layout: post
 title:  "Tasma Greyhood"
 date:   2015-01-18
 excerpt: "Religious monk seemingly unbothered by death."
-image: /images/tasmaPic.png
+image: /images/ColoredTasma.png
 tag:
 - illumina
 - drifter
