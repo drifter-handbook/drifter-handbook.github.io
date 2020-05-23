@@ -9,6 +9,8 @@ tag:
 - drifter
 ---
 
+! This character is currently in play, so the page will remain incomplete !
+
 ## Quart Tart
 Campaign: Wendy's
 
@@ -39,5 +41,7 @@ On returning to Freshtovia, Quart Tart participated in the festivities with the 
 -Drifter Cannon: They appear to be friendly towards one another, but Quart Tart's steadfast loyalty to Freshtovia may fall in direct conflict with the metal one.
 
 -Herbert Muenster: While thankful for his assistance with his arm, after that day Quart Tart is visibly nervous around Muenster.
+
+-Storyweaver: Quart Tart doesn't want to talk about this.
 
 <iframe src="https://open.spotify.com/embed/playlist/4DdBNJLMfHuQ8zm1XyH9WR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
