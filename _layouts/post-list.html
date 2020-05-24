@@ -22,7 +22,8 @@ layout: compress
       </a>
       <div class="content">
         <ul class="posts-list">
-        {% for post in site.posts %}
+		{% assign sorted = (site.posts | sort: 'date')%}
+        {% for post in sorted %}
           <li>
             <h2>
               <a href="{{ site.url }}{{ post.url }}" class="post-title">
