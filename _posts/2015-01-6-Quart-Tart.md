@@ -3,7 +3,7 @@ layout: post
 title:  "Quart Tart"
 date:   2015-01-6
 excerpt: "Quirky wizard with spicy fingers."
-image: /images/QuartTart.png
+image: /images/QuartTartColored.png
 tag:
 - wendy's
 - drifter
