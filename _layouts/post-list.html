@@ -20,15 +20,10 @@ layout: compress
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
-      <a href="posts.html?sortByName=!sortByName">CINDYTEST</a>
+      <a href="posts.html">CINDYTEST</a>
         <div class="content">
           <ul class="posts-list">
-            {%if sortByName == true %}
             {% assign sorted = (site.posts | sort: 'title')%}
-            {%endif%}
-            {%else%}
-            {% assign sorted = (site.posts | sort: 'date')%}
-            {%endif%}
             {% for post in sorted %}
             <li>
               <h2>
