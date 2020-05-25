@@ -16,7 +16,12 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a href="posts.html?sortByName=!sortByName" title="posts" class="posts-menu-icon"></a>
+      {%if sortByName != false %}
+      <a href="posts.html?sortByName=false" title="posts" class="posts-menu-icon"></a>
+      {%endif%}
+      {%else%}
+      <a href="posts.html?sortByName=true" title="posts" class="posts-menu-icon"></a>
+      {%endif%}
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
