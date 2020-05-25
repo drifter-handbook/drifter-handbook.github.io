@@ -10,7 +10,7 @@ layout: compress
     <div class="block-left">
       <div class="content">
         <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
-        <h1 class="section-title">{{ page.title}}<em>CINDY'STESTING</em>
+        <h1 class="section-title">{{ page.title}}<em>/</em>
         </h1>
       </div>
     </div>
@@ -20,10 +20,15 @@ layout: compress
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
-      <a href="posts.html">CINDYTEST</a>
+      <a href="posts.html?sortByName=!sortByName">CINDYTEST</a>
         <div class="content">
           <ul class="posts-list">
+            {%if sortByName == true %}
             {% assign sorted = (site.posts | sort: 'title')%}
+            {%endif%}
+            {%else%}
+            {% assign sorted = (site.posts | sort: 'date')%}
+            {%endif%}
             {% for post in sorted %}
             <li>
               <h2>
