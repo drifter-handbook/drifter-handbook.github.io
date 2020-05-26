@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wade Aerondight"
-date:   2020-02-26
+date:   2020-05-26
 excerpt: "??? How did you find this?"
 image: /images/Wade.png
 permalink: /wade.html
