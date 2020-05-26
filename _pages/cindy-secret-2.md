@@ -7,20 +7,6 @@ image: /images/Wade.png
 permalink: /wade.html
 ---
 
+How did you find me?
+
 <iframe src="https://open.spotify.com/embed/playlist/5bGmIuOevcSaMxKFfwsKur" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
-##Wade Aerondight
- Campaign: ???
-
-###Personality
-???
-
-###Description
-???
-
-###Story
-???
-
-###Relationships
-???
