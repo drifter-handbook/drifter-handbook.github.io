@@ -5,8 +5,6 @@ date:   2020-05-26
 excerpt: "??? How did you find this?"
 image: /images/Wade.png
 permalink: /wade.html
-tag:
--drifter
 ---
 
 
