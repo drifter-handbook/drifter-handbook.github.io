@@ -11,11 +11,11 @@ Some hunters do not overwhelm their prey in an instant with a blinding show of f
 
 Some strike out of nowhere and hope the element of surpise is enough.
 
-But a rare few have no need for strenght or stealth.
+But a rare few have no need for strength or stealth.
 
 Fear is a slow killer, but more deadly than any tooth, nail or knife.
 
-A true hunter allows the prey to do their work for them, fr no death is more certain than that which one makes for themself.
+A true hunter allows the prey to do their work for them, for no death is more certain than that which one makes for themself.
 
 The Presistence Hunter draws near.
 
