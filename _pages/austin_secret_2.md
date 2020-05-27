@@ -59,5 +59,3 @@ t̷̡̢͖̫̮̪̺̓̌̈̔͐͛ḩ̴̢̡̨͓͍̗̝͔̞̠͂ę̷̭̠͇̤͇̲̀ ̴̕
 **ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**
 
 Soon _H̶̵̴̶̴̶̴̷̷̵̴̶̵̶̸̷̺͎͑Ė̴̴̶̴̶̸̵̷̷̸̸̴̸̴̴̷̴̷̸̵̸̴̷̶̸̷̸̴̵̴̷̵̶̶̮̮̤͎̼̗́́_ will watch no longer.
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82499147&color=%23220705&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E</iframe> . <a href="https://soundcloud.com/katashi-san/bleach-ost-on-the-precipice-of" title="Bleach OST On the Precipice of Defeat" target="_blank" style="color: #cccccc; text-decoration: none;">Bleach OST On the Precipice of Defeat</a></div>
