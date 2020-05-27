@@ -39,7 +39,7 @@ While Dyo hardly understands many of the tasks that By-Tor demands completed, sh
 
 -Nemia: A respectable Nuova companion that shares her taste for blood. Dyo doesn't completely dislike her.
 
--Mytharius Orthello Casimir II: While she despises his cowardice, Dyo has come to appreciate his mail services.
+-Mytharius Orthello Casimir II: While she despises his cowardice, Dyo has come to appreciate his mail services. This appreciation has turned to anger however, due to being subjected to Chapter 11 of My By-Tor despite that being her own fault.
 
 -Nero: After forcing her to make a promise to him before saving her life, Dyo dislikes the Roman.
 

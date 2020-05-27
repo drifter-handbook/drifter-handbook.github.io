@@ -33,6 +33,8 @@ Though his riddle-solving skills are horrendous in the French Fry Forest, Quart 
 
 On returning to Freshtovia, Quart Tart participated in the festivities with the rest of the group and did his best to rig the pig race. He also attempted the strongman challenge with a plastic utensil, which went about as expected. He is aghast at the implications that there is a secret police and tried his best to shut down such conversation. Despite his loyalty, he was aghast at the lack of safety protocol enacted with the frosty lakes and wonders why Wendy didn't enact rules regarding safe consumption.
 
+Quart Tart is delighted to meet the fisherman Oreo Elswynd and assist him in his quest. Quart Tart was the opposite of delighted when Muenster drank his ranch wine and started talking about other people in other worlds, and proceeded to chug ranch wine until he was paralyzed.
+
 ### Relationships
 -Queenie: Perhaps an example of opposites attract, the sometimes rude but well-meaning Quart enjoys spending time with the ice queen. While he disapproves of some of her actions, Quart respects Queenie and takes her opinions into consideration during their adventures.
 
@@ -40,7 +42,7 @@ On returning to Freshtovia, Quart Tart participated in the festivities with the 
 
 -Drifter Cannon: They appear to be friendly towards one another, but Quart Tart's steadfast loyalty to Freshtovia may fall in direct conflict with the metal one.
 
--Herbert Muenster: While thankful for his assistance with his arm, after that day Quart Tart is visibly nervous around Muenster.
+-Herbert Muenster: While thankful for his assistance with his arm, after that day Quart Tart is visibly nervous around Muenster. After the ranch wine events, Quart Tart is even more nervous and isn't sure what his next move will be.
 
 -Storyweaver: Quart Tart doesn't want to talk about this.
 
