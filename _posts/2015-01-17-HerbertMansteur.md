@@ -45,3 +45,6 @@ And this is anything that's happened in ur life since you became a drifter.
 - The Ice Jester: His tribe had words for beings like the Ice Jester, though none of them can be uttered witout bringing great and terrible curses upon oneself. He is evil incarnate, and Mansteur will go to any lenghts to free the Deep Freeze from the Jesters frozen clutches.
 
 -  ̷̩͓̤̒̈̂͑͊͝[H̷̜̄̄͒̓͛̊̈́͌̕͝ ̶̥̹̯͔̖̩̹͇̝̺̖̆̀̾̌̐͆͐̈́͒͐̈́Ĩ̴͙̺̘͠ ̷̢̻̰̫̥̳̰̬̫̼͔̦͋̀̏̌̃̈́̓̑̕Ḿ̴͖̲̠̦͇͜ ](https://drifter-handbook.github.io/him.html):[ ̸̢͇̰̯̭̈̆͑͛ͅE̶͈̖͕̩͎͔̪̩̟̲̞̱͂̾̔̒̈́͂͗̋̽́̕̕͜N̷̡̨̮̹͔̹͓̥̳̣̲̩̾̓̆Ơ̵̡̨̡̫͙̠͍͍̲͓͎͇͓̳̐͂̾͒̕͜U̴̢̓̈́̂͋̓̄͒̾̑͋̿͘͠͠Ģ̴̡̖̹̠͉͛̉̌͌͋̏̂̾̌͗̈̄͑̔̆ͅH̴̢̠̖̘̪̟̘͓̝͉̾̀̋̀̈̽͑̿ͅ ̷̜͖̑͗̾́̿̀͘͝G̷̠͕͓̟̜̟̪̩͙̬͕̩̏̿̂Ä̶̡̛̪́̃͘M̴̡͎̄̀͋͊̅̋̈́̋̏̐̃̌̆͝Ē̶̫̥̩̰͂͛̾̾̑̉̾̾͆S̷̨̧̠̱̘͍̜̣͕͇̠̱̦̄̅̅͊,̴̛̫̎͗͊͗ ̷̢̜̝̻̖̳̥̟̲̦͒̉̉T̵̝̪̪̥͚̹̹̦̭̼̭̦̓̓̓́̉̽̄̒͋̌͐̚͜͝ͅI̵̢͉͈͕͕̩̥̦̭͙͉͎͆̑̊̊̍̓͂͒̅̾̀͠M̸̳̖͈̗͔͉͉͚̂̋̀̒̊̈̈́͌̄͒̒̾̕ͅË̵̡͍̳̲̣̬̥̹̱̩̺̩̓̽́́̌́̓͒͆̏̒̉͝ ̶̧͙̗̘̱̻̙̳̙̖͍͕̦̋͋͂̔T̸̨̝͛̈́̃̈͊̑̌͂̒̔͗̚͘͝Ǫ̶̳̻͎̳͙͉̪̰̞̳̆̓͝ ̸̡̬͇͍̥̙̞̄͆̾̑͐̇̀̓̿̓C̷̢̨͖̱͎͉̗̟͇̣̥̱͓͇̑̈̔̑̑̈́͂̏Ǫ̸̢̹̳͎̺̺͍̪͈̮͍̠̱̈́̀̕ͅM̷̱͖͖̮̘̫̭͉̩̉̽̓̒͐̑̊͛͠ͅE̶̫͇͆̔͝ ̷̧̣̮͖̖̩̦̦̫̱͕͚̣͙̥̃͌͆̿̅̃̈́̌̑͑̕Ḩ̸͎͙͕̤̩̪͇̖̾̋̎͋̽͌̏̚̚͝O̸̢̤̩̜̱̣̱̰̔́̆̉͛͂̆̚ͅḾ̸̢͈̖̰͉̓̌̈́̊̐̅̅̌̽͌̃̌ͅȨ̴̡̧̨̳̗͕̗̘͓͚̍̌̈́̀̚](https://drifter-handbook.github.io/him.html)
+
+
+<iframe src="https://open.spotify.com/playlist/3vWa9MdHATkhDImLs4XJ0M" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
