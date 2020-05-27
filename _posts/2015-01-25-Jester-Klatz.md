@@ -60,3 +60,5 @@ However, like many before him, his good fortune was no accident, each action sub
 - The Golden Master: A true patron of the arts! The Golden Master has Klatz’s undying loyalty. Being the first powerful being to understand his work (or at least acknowledge the ideas behind it), Klatz has become fanatically devoted to pleasing his Chaotic patron. It is likely the jester’s delusions of grandeur obscure his Master’s true feelings and intentions. 
 
 - The Persistence Hunter: <a href="https://drifter-handbook.github.io/DontBlink.html"> Even monsters can know fear.</a>
+
+<iframe src="https://open.spotify.com/embed/playlist/1hs9tFnz4dIR4UgCophOKf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

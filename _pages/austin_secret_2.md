@@ -26,9 +26,6 @@ NEVER**BLINKING**ALWAYS**WATCHING**NEVER**BLINKING**ALWAYS**WATCHING**NEVER**BLI
 
 h̶̡̰͔̮͗̍̄e̴͖̻͚̽̿̍ ̴̖̜͍͕̓̽̕m̷͔̭̼̘͆̍̅͝o̵̞̍̇̐v̵̎͜e̶̯̽́̑͜͜s̷̟͓̠̍̊̚ ̷̜̻̉̀͝c̸͕͒ͅl̸͚̮͈̇͘͝ǫ̸̭͛̅s̷̹̅̏͑̑ė̴̺͉̫̋̉̇r̷̜̯͂͂̓ ̴̯͖̂̂t̷̛͖̣̄̾͑o̶͚͓̟͑̈́ ̵̛̺̀̀ͅú̴͙͚͙̺̈́͘ş̵̅̂͠ ̷͓͒͊̓̎b̴̖̅̿̚u̶̼͍̦̿ẗ̶͈̔ ̵͓͚̺̔̓̽͝t̷̪̯̜̃̏͝h̵̨̛̠̱̗̅͌͝e̶̓̌̎͌ͅ ̶̧̮̥͈̈́̈́ḍ̴́į̶̛̥͔s̴̡̤͇̃t̷͇́̕a̴̮̟͔͌͜n̷̟̹̹͆̐͐͝c̵̳̫̝̈́̆̅ė̷̞̥̽͆͂ ̷̨̺̳͍̊g̵̛̞̺̪̑ṟ̶̟̮̋̽̓ͅǒ̵̡͕̭̊̐̚w̸̮̝̤̋̋s̸̢͍̼̻̿
 
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82499147&color=%23220705&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E</iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/katashi-san" title="Katashi San" target="_blank" style="color: #cccccc; text-decoration: none;">Katashi San</a> · <a href="https://soundcloud.com/katashi-san/bleach-ost-on-the-precipice-of" title="Bleach OST On the Precipice of Defeat" target="_blank" style="color: #cccccc; text-decoration: none;">Bleach OST On the Precipice of Defeat</a></div>
-
 ḧ̴̩̞̘̲́̄e̵̟̩̅ ̴͓̗̑w̴̫͊̾r̴̜̖̃i̵̧̦͂̑t̴̨̢̏̌̄̏h̶̖̣́͌͠e̵̮̜̼̹͂̌̅̔s̸̪͈̾͂́ ̵̻̈́͌̾͝ȃ̶̙͎͔n̶̛̰̹̗͋d̸̛͉͚͛̉͆ ̸̦͈̓̉̂͝h̸̗͈͗͂͌̂ę̶̱̪͛̓͝ ̴͓̿̂̈́͝f̸̛̠̦͈̬̾̏̇l̷̻̼̗͆̚ä̷̧͉̮̙̽͋͘i̷͉̲͂̕l̶̗͈͕͋͝s̶̡̺̘̉̌̇̈ ̴̨͉̣̭͆h̸͚̊̿ę̶̛͉̫̀ ̴̤͎͐̄ĺ̵͎͈͕i̸̘̍̀v̵̝͚͕̬̋̃̓e̵̪̻̅̅̑̚s̸̙̝̞̈ ̴̨̮͑̉̔͆ͅã̸͇̫̰̳̀͝n̶̻͓̈͒͝͝d̴̟̹͓̎̿͌̀ ̵̰̋h̵̻̼͝è̸̳̣͠ ̴̖̂ͅd̵̝̘͓͙̔͊́ị̴̘̜͙̓̏͆e̷̛͇̠̟̓̐̌s̶͔̞̞̜̃̔ ̵̻̜̓͝ǎ̶̤̜̠n̷̛̼̏͝d̵̻̟͝ ̴̝̦̑̾̋h̸̡̯̞̆̾ė̸̡̓ ̷͈̺͕̬̍́̈́į̵͛̏̋ś̴̢̖̘̩̾͋͒ ̶̢̖̲̏́͘u̵͓͇͕̻̾͑͐n̵͍͈̗̻̿͆͛̽h̷̰̼̗̤̏͝e̵̬͍̳̱̒a̷̟͈͍͒͛͂̄r̶͕͕͇̿d̶̳̽̏͐̉
 
 AS**WITHOUT**SO**WITHIN**AS**WITHOUT**SO**WITHIN**AS**WITHOUT**SO**WITHIN**AS**WITHOUT**SO**WITHIN**AS**WITHOUT**SO**WITHIN**AS**WITHOUT**SO**WITHIN**
@@ -58,4 +55,6 @@ t̷̡̢͖̫̮̪̺̓̌̈̔͐͛ḩ̴̢̡̨͓͍̗̝͔̞̠͂ę̷̭̠͇̤͇̲̀ ̴̕
 
 **ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**
 
-Soon _H̶̵̴̶̴̶̴̷̷̵̴̶̵̶̸̷̺͎͑Ė̴̴̶̴̶̸̵̷̷̸̸̴̸̴̴̷̴̷̸̵̸̴̷̶̸̷̸̴̵̴̷̵̶̶̮̮̤͎̼̗́́_ will watch no longer.
+Soon <a href="https://drifter-handbook.github.io/Verity.html">_H̶̵̴̶̴̶̴̷̷̵̴̶̵̶̸̷̺͎͑Ė̴̴̶̴̶̸̵̷̷̸̸̴̸̴̴̷̴̷̸̵̸̴̷̶̸̷̸̴̵̴̷̵̶̶̮̮̤͎̼̗́́_</a> will watch no longer.
+
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82499147&color=%23220705&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
