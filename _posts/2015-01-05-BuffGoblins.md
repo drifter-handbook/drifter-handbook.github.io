@@ -37,14 +37,15 @@ And this is anything that's happened in ur life since you became a drifter.
 
 ### Relationships
 
-- Drifters
+- Drifters: A group of soft, pudgy skeptics. They are a means to an end, but the Goblins hope that they may provide a positive example for the correct way to live.
 
-- Tasma Greyhood
+- Tasma Greyhood: A high ranking member of the same faith, Rammstein and Heinrich regard Tasma with great respect and are always at her beck and call. Their relationship seems entirely professional.
 
-- Andal 
+- Andal: A chemist, cleric and fellow Child of the Trident. The two seem to have met fairly recently, but like with Tasma, the Goblins serve Andal as bodyguards and backup. Unlike the unwavering respect shown for Tasma, the Goblins do not disguise their admonishment for Andal’s less-than-toned physique.
 
-- Sun
+- Sun: Her divinity is absolutely radiant. While they are eternally devoted to their Goddess, only a fool would shun the gifts of the deity. Evra works in mysterious ways; there is a very real possibility that this young girl is an unwitting messenger of the TRUE Divine. 
 
-- Reed Idtentson
+- Reed Idtentson: Weak, blasphemous, scrawny, rude, irreverent, unpleasant, unclean, squishy, smelly, soft, uncouth, lazy, no good, ner-do-well, dummkoph… The list could go on, and it will, once the Goblins find a thesaurus.
+
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/654799955&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
