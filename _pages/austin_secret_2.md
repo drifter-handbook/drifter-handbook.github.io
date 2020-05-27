@@ -59,3 +59,5 @@ t̷̡̢͖̫̮̪̺̓̌̈̔͐͛ḩ̴̢̡̨͓͍̗̝͔̞̠͂ę̷̭̠͇̤͇̲̀ ̴̕
 **ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**IS**ALL**IS**ONE**
 
 Soon _H̶̵̴̶̴̶̴̷̷̵̴̶̵̶̸̷̺͎͑Ė̴̴̶̴̶̸̵̷̷̸̸̴̸̴̴̷̴̷̸̵̸̴̷̶̸̷̸̴̵̴̷̵̶̶̮̮̤͎̼̗́́_ will watch no longer.
+
+<iframe src="https://open.spotify.com/embed/playlist/4RtWyWFRIygBD7eHpQwOTD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
