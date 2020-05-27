@@ -8,8 +8,7 @@ permalink: /aerondightright.html
 ---
 "You completed all the tests and have proven your worth. I, ----- Aerondight, will serve you, my lord -----."
 
-<iframe src="https://open.spotify.com/embed/playlist/1ZRFZyc7fsjicDzrENuOhG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1059584977%3Fsecret_token%3Ds-S75Lf6LoFkb&color=%23debc8e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 The Aerondight Right, also known as the Right, is a strict order of tests that must be followed and completed in order to earn an Aerondight's service. The rules only apply if the Aerondight has no lord. If you want to invoke the Right it's proper to first ask if they have a lord, for invoking the right of a preoccupied Aerondight is a grave insult.
 
