@@ -15,7 +15,7 @@ Campaign: Feast of Legends
 
 ### Personality
 
-Herbert Mansteur is a sweet, gentle man from the frozen south of the Deep Freeze. Always eager to help and make friends, those who meeting him in passing would likely describe him as avuncular and outgoing. However, this jovial demenor quickly falls away upon closer inspection.
+Herbert Mansteur, born Wolfram Kropp, is a polite, gentle man from the frozen south of the Deep Freeze. Always eager to help and make friends, those who meeting him in passing would likely describe him as avuncular and outgoing. However, this jovial demenor quickly falls away upon closer inspection.
 
 ### Description
 
@@ -23,9 +23,9 @@ Years of living in the Deep Freeze have honed Mansteurs body and practical skill
 
 ### Story
 
-Born into the pastoral life of a Deep Freeze hearder-hunter, Mansteur’s life was abruptly turned on its head when the Ice Jester rose to power. The cold wind swept through his village like a plague, killing everyone but young Herbert, whose father’s body shielded from the brunt of the blast. Orphaned and with no renewable food source in sight, Mansteur was left to feed on the frozen corpses of his livestock, and eventually, his former village mates. The decades of isolation and cannibalism broke the man’s psyche, and by the time he was prepared enough to escape the deep freeze with his life, he was little more than a quivering mass of muscle and madness.
+Born into the pastoral life of a Deep Freeze hearder-hunter, young Wolfram’s life was abruptly turned on its head when the Ice Jester rose to power. The cold wind swept through his village like a plague, killing everyone but young Herbert, whose father’s body shielded from the brunt of the blast. Orphaned and with no renewable food source in sight, Wolfram was left to feed on the frozen corpses of his livestock, and eventually, his former village mates. The decades of isolation and cannibalism broke the man’s psyche, and by the time he was prepared enough to escape the deep freeze with his life, he was little more than a quivering mass of muscle and madness.
 
-Found by a family of noble wheat farmers on the outskirts of Freshtovia, Mansteur was slowly taught the Freshtovian language and reintegrated into society. While he learned their manners and dignified way of speaking, the trauma of his past invariably bubbled to the surface in bouts of psychotic ravaing. Once more exiled from his home after accidentally killing one of his hosts, Mansteur wandered to the capital of Freshtovia hoping the hustle and bustle of the city would help to drown out the cacophony of voices that assaulted his mind. 
+Taken in by a family of noble wheat farmers on the outskirts of Freshtovia, the wild man was slowly taught the Freshtovian language and reintegrated into society. Given the new name of Herber Mansteur, he worked for the family as a sfarmhand and servant. While he learned their manners and dignified way of speaking, the trauma of his past invariably bubbled to the surface in bouts of psychotic ravaing. Once more exiled from his home after killing one of his hosts, Mansteur wandered to the capital of Freshtovia hoping the hustle and bustle of the city would help to drown out the cacophony of voices that assaulted his mind. 
 
 Thanks to a chance encounter with a sentient cannon and a spicy fingered old man, Mansteur once again found a family to take him in. Now, he hopes, above all else, that this one won’t be taken away from him as well.
 
