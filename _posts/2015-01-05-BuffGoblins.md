@@ -28,11 +28,23 @@ As Evra is a goddess of pleasure in all its forms, her followers are quite diver
 
 ### Story
 
-This is where your known backstory goes
+Little is known of Rammstein and Henrich VanHalen’s early life. Orphaned at a young age the two goblins were left to fend for themselves on the streets on the Empire. Street fights and police brutality were commonplace, so to protect themselves and each other, the goblins trained. They pushed their bodies to their limits and kept pushing farther. Battered and downtrodden, the two found solace in each other. While the nature of their relationship is ambiguous to all but the goblins themselves, it is clear that the two have a connection that runs far deeper than blood. The only sure thing was their partner’s support.
+
+That is, until a fateful encounter with a street preacher. Promised power, pleasure, and peace, Rammstein and Henrich were taken by the speaker's message. Taken off the streets and brought into the folds of the Children of the Trident, the Goblins devoted their minds, bodies, and souls to the spread of their Goddess’s word. 
+
+Recognized for their fanatical devotion to the cause and intimidating stature, Rammstein and Heinrich were selected to be some of the first missionaries to the distant continent of Gottland. Along with a high ranking church official and a chemist, the Goblins were granted passage on one of the last colony ships from the Empire. Everything was going smoothly until a little sable-haired girl began to sing...
+
 
 ### Drifters
 
-And this is anything that's happened in ur life since you became a drifter.
+After a long and unpleasant boat ride from the Empire and a rapid string of near-death experiences, the Goblins and the rest of the Drifters arrived in Gottland. After their immediate survival was secured, Rammstein and Heinrich resumed their cult duties of pedaling their “essential oils”. In an attempt to help the blind gravekeeper Patches, the pair inadvertently afflicted him with a crippling drug addiction, and subsequently used him as an improvised projectile weapon against his own daughter.
+
+Various cult related shenanigans ensued as the Children of the Trident made their way to and explored the city of Dalot. A night of prophetic visions and a surprise attack by the Usurper-God Cal’Codoth left the party in the throne room of the king of the land. After a long philosophical debate with King Dalot regarding the place of mortals and the complacency of the Gods, the stalemate was finally broken with Rammstein’s uncharacteristic declaration of “No gods, no kings, only MEN”.
+
+Upon descending into the old world beneath the city, The Children quickly felt their connection to their beloved Goddess wane, until it was naught more than a whisper. In a land devoid of the one thing that gave their lives purpose, they fell into a depressed complacent, only exacerbated by Heinrich’s mortal wounding at the hands of the Apothecary Guardian.  Even after Henrich was saved, the two never really felt the same. In the end, they abstained from participating in the final battle for Dalot, rammstein preferring to spend his last minutes with his partner in peace rather than war.
+
+After Dalot was liberated adn Cal’Codoth banished for the time being, the Goblins retired from adventuring to open an alternative medicine dispensary/crossfit gym. The remain in Dalot with the rest of the cult, eternally hounding their fellow adventurer Reed Idtetson with promises of Gains and Glory in Evra’s scarlet light.
+
 
 
 ### Relationships
