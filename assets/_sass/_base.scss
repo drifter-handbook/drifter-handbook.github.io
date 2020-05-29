@@ -29,6 +29,7 @@ body {
   font-family: $base-font;
   color: $overlay-color;
   background-image: url(/images/bench.png);
+  background-size: cover;
 }
 
 a {
