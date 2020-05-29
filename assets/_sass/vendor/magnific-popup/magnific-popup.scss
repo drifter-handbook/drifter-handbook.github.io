@@ -470,10 +470,12 @@ button {
         .mfp-image-holder {
           padding-left: 0;
           padding-right: 0;
+          height: 100%
         }
         img {
           &.mfp-img {
             padding: 0;
+            height: 100%
           }
         }
         .mfp-figure {
