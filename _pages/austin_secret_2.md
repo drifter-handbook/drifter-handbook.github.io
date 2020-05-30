@@ -57,4 +57,4 @@ t̷̡̢͖̫̮̪̺̓̌̈̔͐͛ḩ̴̢̡̨͓͍̗̝͔̞̠͂ę̷̭̠͇̤͇̲̀ ̴̕
 
 Soon <a href="https://drifter-handbook.github.io/Verity.html">_H̶̵̴̶̴̶̴̷̷̵̴̶̵̶̸̷̺͎͑Ė̴̴̶̴̶̸̵̷̷̸̸̴̸̴̴̷̴̷̸̵̸̴̷̶̸̷̸̴̵̴̷̵̶̶̮̮̤͎̼̗́́_</a> will watch no longer.
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82499147&color=%23220705&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82499147&color=%23220705&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true%22%3E" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
