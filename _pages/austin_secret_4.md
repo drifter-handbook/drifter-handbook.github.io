@@ -10,13 +10,13 @@ permalink: /Verity.html
 
 Tungsten Body, Glowing Mind
 
-Kingdom Come, Always Mine
+Kingdom Come, They're Always Mine
 
-Clutching Fool, Crown Alone
+Clutching Fool, His Crown Alone
 
-Powered Home, Ramming Stone
+Powered Home, And Ramming Stone
 
-Somber Lies, Hunt Begun
+Somber Lies, The Hunts Begun
 
-Worlds Apart, We Are One
+Worlds Apart, Yet We Are One
 
