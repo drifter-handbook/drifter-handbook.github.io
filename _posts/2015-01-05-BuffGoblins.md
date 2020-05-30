@@ -60,4 +60,4 @@ After Dalot was liberated adn Cal’Codoth banished for the time being, the Gobl
 - Reed Idtentson: Weak, blasphemous, scrawny, rude, irreverent, unpleasant, unclean, squishy, smelly, soft, uncouth, lazy, no good, ner-do-well, dummkoph… The list could go on, and it will, once the Goblins find a thesaurus.
 
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/654799955&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/654799955&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
