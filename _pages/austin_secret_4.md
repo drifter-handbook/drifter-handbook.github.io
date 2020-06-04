@@ -10,7 +10,7 @@ permalink: /Verity.html
 
 Tungsten Body, Glowing Mind
 
-Kingdom Come, They're Always Mine
+<a href="https://drifter-handbook.github.io/KingdomCome.html">Kingdom Come, Forever Mine</a>
 
 Clutching Fool, His Crown Alone
 
