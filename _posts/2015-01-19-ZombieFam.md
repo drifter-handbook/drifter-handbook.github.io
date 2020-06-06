@@ -45,3 +45,6 @@ And this is anything that's happened in ur life since you became a drifter.
 - Storyweaver: Chadwick has taken an interest in the colorful mage, though the nature of their interactions remains a mystery. During low-intensity situations, the two can be occasionally seen hunched over one of Storyweaver's many writings, almost as if they are studying. 
 
 - <a href="https://drifter-handbook.github.io/Verity.html">V E R I T Y</a>: OURHONOREDGUEST
+
+
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740960125&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
