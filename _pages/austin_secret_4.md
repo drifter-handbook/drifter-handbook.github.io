@@ -8,11 +8,11 @@ permalink: /Verity.html
 
 ## Verity, The Nascent
 
-Tungsten Body, Glowing Mind
+<a href="https://drifter-handbook.github.io/TungstenBody.html">Tungsten Body, Glowing Mind</a>
 
 <a href="https://drifter-handbook.github.io/KingdomCome.html">Kingdom Come, Forever Mine</a>
 
-Clutching Fool, His Crown Alone
+<a href="https://drifter-handbook.github.io/ClutchingFool.html">Clutching Fool, His Crown Alone</a>
 
 Powered Home, And Ramming Stone
 
