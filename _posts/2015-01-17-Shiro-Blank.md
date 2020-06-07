@@ -32,4 +32,4 @@ Sora: Her everything and her nothing, her reason for living. It's possible Shiro
 
 Lucille Johnson: After running away from the bank in a panic, Lucille not only picked Shiro up but also picked up Sora and ensured his recovery. Shiro is extremely grateful because of this and is happily indebted to him.
 
-<iframe src="https://open.spotify.com/embed/playlist/6vrxQ0V7LFpp7GSErNnq2u" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1066545904%3Fsecret_token%3Ds-7NSW63IUHDW&color=%23debc8e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

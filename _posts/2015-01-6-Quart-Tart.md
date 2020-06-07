@@ -46,4 +46,4 @@ Quart Tart is delighted to meet the fisherman Oreo Elswynd and assist him in his
 
 -Storyweaver: Quart Tart doesn't want to talk about this.
 
-<iframe src="https://open.spotify.com/embed/playlist/4DdBNJLMfHuQ8zm1XyH9WR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1066537756%3Fsecret_token%3Ds-1rvVkShgAiK&color=%23debc8e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
