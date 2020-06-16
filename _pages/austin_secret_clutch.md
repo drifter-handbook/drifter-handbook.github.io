@@ -7,3 +7,5 @@ permalink: /ClutchingFool.html
 ---
 
 ## Clutching Fool, His Crown Alone
+
+A mouth that speaks only of itself has nothing of value to say.
