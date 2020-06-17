@@ -34,6 +34,10 @@ Dyo was sent a letter from the demon lord of the north By-Tor, an impressive fea
 
 While Dyo hardly understands many of the tasks that By-Tor demands completed, she takes joy in the pure destruction and havoc they cause so she doesn't care what the "why" is. It's possible that By-Tor's requests of arson and indiscriminate murder has worsened Dyo's violent tendencies. Or perhaps a different force entirely is making her more frantic.
 
+### My Immortal
+
+Dyo did not handle the goggles very well and intentionally injured herself multiple times throughout the experience and would rather not talk about the details of what she saw. She plans to return the favor to Kyruikom in full.
+
 ### Relationships
 -Frath Brightwood: The paladin loyalist would get in Dyo's way rather often if her actions weren't deemed "correct". She doesn't miss his company.
 
@@ -46,6 +50,10 @@ While Dyo hardly understands many of the tasks that By-Tor demands completed, sh
 -Jester Klatz: While initially respecting his murderous tendencies, Dyo looks down upon him for agreeing to let his arm be chopped off and running to the Gold Master.
 
 -Down: Dyo dislikes Down because she lost to him at the tournament. She intends to force a rematch in the future.
+
+-Kyurikom: Dyo once spared his life. After more recent events she deeply regrets this choice and plans to attempt to murder the demon every chance she gets.
+
+-By-Tor: Her current boss. He seems easier to work with than other chaotics considering Dyo's blood-spilling tendencies. Wishes he would be more willing to reward her work, though.
 
 -Everybody: More likely than not, Dyo dislikes you. It's nothing personal.
 
