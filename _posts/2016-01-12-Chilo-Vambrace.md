@@ -24,6 +24,8 @@ Chilo Whip (Lv1): Player's base whip attack now deals 1d6 damage. For every succ
 
 Barbed Retort (Lv1): If an enemy is held with the Chilo Whip at the beginning of the player's turn, Barbed Retort can be used as an action instead. Centipede-like legs erupt from the whip and puncture any held units, dealing 2d4 damage and applying a basic poison (AC 10 Con save, 1d4 poison damage for every failed save on subsequent turns until pass). Barbed Retort does not require the user to roll to hit, but cannot be used on the same target on subsequent turns.
 
+Dangerous Gamble (Lv 1) - When dealing poison with the Chilo Vambrace, you can attempt to add 1d4 poison damage to the attack by rolling a d20. On a 15+, the damage is applied. On <15, you receive that damage.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
