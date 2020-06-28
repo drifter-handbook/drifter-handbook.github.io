@@ -28,6 +28,8 @@ As an action, user can cast Friends on any non-hostile unit without expending an
 
 Gadget Bead (Lv 1): +2 on Investigation checks to determine what a mechanical object/creature does.
 
+Blooddrinker (Title): Dyo is classified as a Lesser Demon. In addition, when Rage activates, enemies and allies that can see Dyo roll a Charisma save (DC 10). On fail, that creature is Frightened for 1 turn.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
