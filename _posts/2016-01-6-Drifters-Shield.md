@@ -26,6 +26,9 @@ As an action, the bearer can activate a special "shield" stance. This stance add
 Ram (Lv 2):
 A charging attack that lets the bearer of the shield 'dash' as a bonus action before attacking. However, after this attack is used, the bearer's AC is dropped by 3 until the next round. Ram hits all enemies between the user and their destination. Enemies hit make a strength save (DC 15). On pass, the user is stopped and cannot pass through.
 
+Practiced Hunter (Lv 1): 
+Gain +1 to hit globally on all attacks 
+
 Restored Relic:
 This artifact cannot be destroyed.
 
