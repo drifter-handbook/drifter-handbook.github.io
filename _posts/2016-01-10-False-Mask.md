@@ -29,6 +29,9 @@ User can now speak and understand Elven and Draconic. Reading/Writing is exclude
 Heat Sink (Lv 1):
 When you are hit with a fire-based spell, double your base movement speed for the next minute. 
 
+Practiced Hunter (Lv 1): 
+Gain +1 to hit globally on all attacks 
+
 Restored Relic:
 This artifact cannot be destroyed.
 
