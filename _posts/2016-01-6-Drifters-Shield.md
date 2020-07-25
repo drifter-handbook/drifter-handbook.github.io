@@ -32,8 +32,8 @@ Gain +1 to hit globally on all attacks
 Restored Relic:
 This artifact cannot be destroyed.
 
-Gold Bane:
-The bearer of this artifact has +2 to hit and +2 damage against any Gold enemies.
+Gold Bane (Lv 3):
+The bearer of this artifact has +3 to hit and +3 damage against any Gold enemies.
 
 ### Feats
 
