@@ -33,7 +33,7 @@ Blooddrinker (Title): Dyo is classified as a Lesser Demon. In addition, when Rag
 Restored Relic:
 This artifact cannot be destroyed.
 
-Blue Bane:
+Blue Bane (Lv 3):
 The bearer of this artifact has +3 to hit and +3 damage against any Blue enemies.
 
 
