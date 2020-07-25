@@ -31,11 +31,13 @@ Executioner's Axe (lv 1): An enchanted silver blade. When weilded by a silver ha
 
 Paper Crane (lv 1): Summons a Paper Crane monster as an ally.
 
+Trap Card (lv 1): Summons a Snaptrap creature that acts as a trap. Snaptraps can burrow into the ground and hide in loose terrain.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
-Blue Bane:
-The bearer of this artifact has +2 to hit and +2 damage against any Blue enemies.
+Blue Bane (Lv. 3):
+The bearer of this artifact has +3 to hit and +3 damage against any Blue enemies.
 
 ### Feats
 
