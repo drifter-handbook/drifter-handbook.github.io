@@ -13,7 +13,7 @@ tag:
 Campaign: Fly By Night
 
 ### Geography
-The Northern Keep is by far the easist place to get oneself maimed or killed in the North, but also home to perhaps the strongest warriors and most knowledgable scholars in the nine realms. Deep within the heart of Niflheim, the Northern Keep is a large white conclave housing around 50-75 residents. The innermost building, known mainly as the keep itself, is a cathedral that has been converted into a massive library and university where most of the populace resides. Lord Snowdog rules over the Northern Keep, but due to his abudent absences, the true ruler of the keep is typically deferred to his wife, Lady Starlight.
+The Northern Keep is by far the easist place to get oneself maimed or killed in the North, but also home to perhaps the strongest warriors and most knowledgable scholars in the nine realms. Deep within the heart of Niflheim, the Northern Keep is a large white conclave housing around 50-75 residents. The innermost building, known mainly as the keep itself, is a cathedral that has been converted into a massive library and university where most of the populace resides. Lord Snowdog rules over the Northern Keep, but due to his <a href="https://drifter-handbook.github.io/tlc" >abudent absences</a>, the true ruler of the keep is typically deferred to his wife, Lady Starlight.
 
 There are plenty of reasons why the Northern Keep is widely regarded as a dangerous place, including but not limited to its bitterly cold climate, aggressive wildlife, aggressive residents, lack of water, unhealthy proximity to scholars with too much funding for their own good, haunted libraries, and the fact that the demon lord By-Tor invades once a month to destroy as much of the place as he can. Snowdog and Lady Starlight get a bit of aid in protecting their land from the Silver Dragons who also inhabit the realm, but the Northern Keep also sports the largest standing army which remains incredibly active in the defence of their land. While the Northern Keep is not safest in any sense of the word, those who survive within its walls are extrordinary additions to any fighting party.
 
@@ -26,6 +26,8 @@ There are plenty of reasons why the Northern Keep is widely regarded as a danger
 
 - The Lower Library: There are many stages of libraries throughout the inner keep, but one of the most infamous is the lower library. The lower library is full of re-purposed and original areas from the keep's earlier days. Strong magics are setup in all of the rooms to confuse and deter looters. While the area is not off-limits, navigating the libraries is a pain, and finding the information one seeks down there is seldom an easy task.
 
+
+DaughterOfTheBlueChaotic
 - The Silver Pits: ???
 
 - The Ghost's Perch and Lightning Rod: ???
@@ -34,4 +36,4 @@ There are plenty of reasons why the Northern Keep is widely regarded as a danger
 
 - Colorful Shrine: ???
 
-<iframe src="https://open.spotify.com/embed/user/isittooshortornotavailable/playlist/6wIODD70QvgphnOsFpyCba" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/2jCAcApv1FPFTh6YGUeUvs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
