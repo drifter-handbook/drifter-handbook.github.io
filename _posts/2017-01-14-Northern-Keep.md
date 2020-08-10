@@ -3,7 +3,7 @@ layout: post
 title:  "The Northern Keep"
 date:   2017-01-14
 excerpt: "A stolen enclave and university."
-image: /images/KeepPic.png
+image: /savvy-layer-files/KeepPic.png
 tag:
 - fly by night
 - places 
