@@ -29,6 +29,8 @@ On a Nat20, the user's damage is tripled instead of doubled.
 Practiced Hunter (Lv 1): 
 Gain +1 to hit globally on all attacks 
 
+Family Ties (Lv. 1):  All Elswyn characters share the Coldfire Cord's benefits
+
 Scholar of the Northern Lights (Title):
 +5 boost to History. User can now swap investigation checks with history checks (in applicable cases)
 
