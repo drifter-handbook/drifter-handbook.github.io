@@ -4,7 +4,7 @@ title:  "Fearmonger"
 date:   1950-01-23
 excerpt: "???"
 image: /images/emblemPic.png
-permalink: /Fearmonger.html
+permalink: /fearmonger.html
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1v5v0vaIV1WETXhE08VrAW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
