@@ -23,8 +23,8 @@ A powerful relic restored by the Red Monk and gifted to Nero. This large shield 
 Steadfast (Lv 2):
 As an action, the bearer can activate a special "shield" stance. This stance adds +3 to the user's AC, and the user can share their AC with one adjacent person/object for a turn of combat. The user cannot lose their shield in this state.
 
-Ram (Lv 2):
-A charging attack that lets the bearer of the shield 'dash' as a bonus action before attacking. However, after this attack is used, the bearer's AC is dropped by 3 until the next round. Ram hits all enemies between the user and their destination. Enemies hit make a strength save (DC 15). On pass, the user is stopped and cannot pass through.
+Ram (Lv 3):
+A charging attack that lets Nero 'dash' as a bonus action before attacking. However, after this attack is used, the bearer's AC is dropped by 3 until the next round. Ram hits all enemies between the user and their destination. Enemies hit make a strength save (DC 15). On pass, the user is stopped and cannot pass through.
 
 Practiced Hunter (Lv 1): 
 Gain +1 to hit globally on all attacks 
