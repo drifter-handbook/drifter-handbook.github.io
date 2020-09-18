@@ -23,8 +23,8 @@ A powerful relic created by the Snowdog and gifted to Savvy. The mask appears to
 False Voice (Lv 1):
 Whenever the user casts a music-based spell, roll a d20. On an 18 or above, the spell is cast twice at no cost to the user.
 
-False Tongue (Lv 2):
-User can now speak and understand Elven and Draconic. Reading/Writing is excluded from this.
+False Tongue (Lv 3):
+User can now speak and understand Elven, Winter Wolf and Draconic. Reading/Writing is excluded from this.
 
 Heat Sink (Lv 1):
 When you are hit with a fire-based spell, double your base movement speed for the next minute. 
