@@ -26,6 +26,8 @@ Barbed Retort (Lv1): If an enemy is held with the Chilo Whip at the beginning of
 
 Dangerous Gamble (Lv 1) - When dealing poison with the Chilo Vambrace, you can attempt to add 1d4 poison damage to the attack by rolling a d20. On a 15+, the damage is applied. On <15, you receive that damage.
 
+He's Got A Point (Lv 1) - +1 to persuasion rolls
+
 Restored Relic:
 This artifact cannot be destroyed.
 
