@@ -30,6 +30,8 @@ Gadget Bead (Lv 1): +2 on Investigation checks to determine what a mechanical ob
 
 Blooddrinker (Title) (Lv. 2): Dyo is classified as a Lesser Demon. In addition, when Rage activates, Dyo can unleash her snake form. If she activates this form, enemies and allies that can see Dyo roll a Charisma save (DC 10). On fail, that creature is Frightened for 1 turn.
 
+Cosmic Rage: By burning 2 instances of Rage, Dyo can enter Cosmic Rage. Cosmic Rage works similar to regular Rage, except Magic damage is halved rather than physical damage.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
