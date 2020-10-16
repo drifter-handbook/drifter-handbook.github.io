@@ -26,7 +26,7 @@ As an action, the user can cast Sleep on any single enemy without expending any 
 Dyrim (Lv 2): 
 As an action, user can cast Friends on any non-hostile unit without expending any spellslots or requiring the spell in the user's spelllist. However, if the spell succeeds, the target loses a set amount of health (decided by the DM) after the spell wears off.
 
-Gadget Bead (Lv 1): +2 on Investigation checks to determine what a mechanical object/creature does.
+Gadget Bead (Lv 2): +2 on Investigation checks to determine what a mechanical object/creature does. Forging any simple weapon will imbue it with basic perks for being high quality.
 
 Blooddrinker (Title) (Lv. 2): Dyo is classified as a Lesser Demon. In addition, when Rage activates, Dyo can unleash her snake form. If she activates this form, enemies and allies that can see Dyo roll a Charisma save (DC 10). On fail, that creature is Frightened for 1 turn.
 
