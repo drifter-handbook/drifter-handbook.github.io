@@ -28,6 +28,8 @@ Dangerous Gamble (Lv 1) - When dealing poison with the Chilo Vambrace, you can a
 
 He's Got A Point (Lv 1) - +1 to persuasion rolls
 
+Vagabond (Lv 1): Once per session, you can attempt to open a portal into Solidago's Workshop using A R T. Roll a d20, on a nat 20 the door opens.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
