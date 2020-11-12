@@ -37,8 +37,8 @@ Scholar of the Northern Lights (Title):
 Restored Relic:
 This artifact cannot be destroyed.
 
-Green Bane (Lv. 4):
-The bearer of this artifact has +4 to hit and +4 damage against any Green enemies.
+Green Bane (Lv. 5):
+The bearer of this artifact has +5 to hit and +5 damage against any Green enemies.
 
 ### Feats
 
