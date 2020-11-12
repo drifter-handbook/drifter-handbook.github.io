@@ -35,8 +35,8 @@ Cosmic Rage: By burning 2 instances of Rage, Dyo can enter Cosmic Rage. Cosmic R
 Restored Relic:
 This artifact cannot be destroyed.
 
-Blue Bane (Lv 4):
-The bearer of this artifact has +4 to hit and +4 damage against any Blue enemies.
+Blue Bane (Lv 5):
+The bearer of this artifact has +5 to hit and +5 damage against any Blue enemies.
 
 
 ### Feats
