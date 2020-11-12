@@ -33,11 +33,13 @@ Paper Crane (lv 1): Summons a Paper Crane monster as an ally.
 
 Trap Card (lv 1): Summons a Snaptrap creature that acts as a trap. Snaptraps can burrow into the ground and hide in loose terrain.
 
+Sheep (lv 1): Summons a normal sheep.
+
 Restored Relic:
 This artifact cannot be destroyed.
 
-Blue Bane (Lv. 3):
-The bearer of this artifact has +3 to hit and +3 damage against any Blue enemies.
+Blue Bane (Lv. 4):
+The bearer of this artifact has +4 to hit and +4 damage against any Blue enemies.
 
 ### Feats
 
