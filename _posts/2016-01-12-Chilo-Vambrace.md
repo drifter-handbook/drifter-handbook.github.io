@@ -33,8 +33,8 @@ Vagabond (Lv 1): Once per session, you can attempt to open a portal into Solidag
 Restored Relic:
 This artifact cannot be destroyed.
 
-Red Bane:
-The bearer of this artifact has +4 to hit and +4 damage against any Blue enemies.
+Red Bane (Lv 5):
+The bearer of this artifact has +5 to hit and +5 damage against any Gold enemies.
 
 ### Feats
 Jester Klatz originally entered the North unaligned to any of the Chaotics, but won favor with the Gold Master by accomplishing tasks at Kyurikom's Tower, the Misted Forest, Moosejaw Arena, and Auracario Mountain. In order to create the artifact, the Gold Master placed a gauntlet cast on Jester's right arm that slowly poisoned and withered away his old arm.
