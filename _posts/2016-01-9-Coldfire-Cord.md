@@ -20,6 +20,8 @@ A powerful relic created by the Snowdog and gifted to Myth. Several braids hold 
 
 ### Effect
 
+REALMSEER: You can cast Blink as a free action during the first round of combat, without expending a spellslot or knowing the spell.
+
 Coldfire (Lv 2):
 User can choose to convert any attack damage type of theirs into Cold or Fire damage.
 
