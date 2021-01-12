@@ -23,17 +23,19 @@ A powerful relic created by Bytor and gifted to Down. Each card appears to have 
 Summon:
 User can summon any demon from their deck (one at a time) for 1 action. When summoned, the demon will obey the user's orders exactly. Only one version of a demon can exist at a time. When a demon is killed, it is returned to the deck and can be summoned back next turn.
 
-Coin Mimic (lv 1): A small demon that perfectly resembled a gold coin when resting. At the user's command, the mimic will break its guise and attack the closest person for 1d4 damage. It's not very smart.
+HEART OF THE CARDS: Each summoned unit provides a specific bonus to spellcasting.
 
-Remoraz (lv 2): A centipede-like creature that lays perfectly still. It seems very hungry, and anything it swallows begins to melt in its stomach. It's still very young. Spits burning acid at its enemies for 1d6 damage.
+Coin Mimic (lv 1): A small demon that perfectly resembled a gold coin when resting. At the user's command, the mimic will break its guise and attack the closest person for 1d4 damage. It's not very smart. When used for heart of the cards, flip a coin. If heads, provides +5 spelldamage;
 
-Executioner's Axe (lv 1): An enchanted silver blade. When weilded by a silver hand, the user gains advantage on non-combat chopping actions (such as breaking down doors or walls).
+Remoraz (lv 2): A centipede-like creature that lays perfectly still. It seems very hungry, and anything it swallows begins to melt in its stomach. It's still very young. Spits burning acid at its enemies for 1d6 damage. When used for heart of the cards provides +2 spelldamage (fire damage);
 
-Paper Crane (lv 1): Summons a Paper Crane monster as an ally.
+Executioner's Axe (lv 1): An enchanted silver blade. When weilded by a silver hand, the user gains advantage on non-combat chopping actions (such as breaking down doors or walls). When used for heart of the cards provides +2 spelldamage (silver damage);
 
-Trap Card (lv 1): Summons a Snaptrap creature that acts as a trap. Snaptraps can burrow into the ground and hide in loose terrain.
+Paper Crane (lv 1): Summons a Paper Crane monster as an ally. When used for heart of the cards provides +2 to hit;
 
-Sheep (lv 1): Summons a normal sheep.
+Trap Card (lv 1): Summons a Snaptrap creature that acts as a trap. Snaptraps can burrow into the ground and hide in loose terrain. When used for heart of the cards provides +1 to hit;
+
+Sheep (lv 1): Summons a normal sheep. When used for heart of the cards raises AC by 3 for one attack, then destroys sheep;
 
 Restored Relic:
 This artifact cannot be destroyed.
