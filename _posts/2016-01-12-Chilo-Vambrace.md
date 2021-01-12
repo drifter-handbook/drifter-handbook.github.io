@@ -19,6 +19,7 @@ A powerful relic created by the Gold Master and gifted to Jester Klatz. The enti
 
 
 ### Effect
+PERFECTION: Poison damage dealt by the wielder can be converted to force damage.
 
 Chilo Whip (Lv1): Player's base whip attack now deals 1d6 damage. For every successful hit, roll 1d20. On a 15+, the whip also becomes wrapped around the enemy as a setup for Barbed Retort.
 
