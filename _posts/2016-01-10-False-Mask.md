@@ -20,6 +20,8 @@ A powerful relic created by the Snowdog and gifted to Savvy. The mask appears to
 
 ### Effect
 
+PERSISTENCE: False Voice's re-roll threshold is lowered to 16. Roll a d20 to recast a spell after every successful repetition of False Voice.
+
 False Voice (Lv 1):
 Whenever the user casts a music-based spell, roll a d20. On an 18 or above, the spell is cast twice at no cost to the user.
 
