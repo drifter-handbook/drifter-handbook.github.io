@@ -35,17 +35,17 @@ Wendy was caught shortly after committing her crimes, though do to the ongoing i
 - Dave: Her father. Always seeking to prover herself better than her sister she constantly pressured him to give her challenges to prove her abilities, though as she has grown out of her younger years she has grown less enamored with him.
 
 ### Crimes
-- Murder
-	- Type: ***REDACTED***
-		- Counts: 1
-	- Type: ***REDACTED***
-		- Counts: 5
-- Conspiracy
-	- Type: ***REDACTED***
-		- Counts: 1
-- Fraud
-	- Type: Documentation
-		- Counts: 1
-- Bribery
-	- Type: Political
-		- Counts: 20, investigation still in progress
+Murder
+	Type: ***REDACTED***
+		Counts: 1
+	Type: ***REDACTED***
+		Counts: 5
+Conspiracy
+	Type: ***REDACTED***
+		Counts: 1
+Fraud
+	Type: Documentation
+		Counts: 1
+Bribery
+	Type: Political
+		Counts: 20, investigation still in progress
