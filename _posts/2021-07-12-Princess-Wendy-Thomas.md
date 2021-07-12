@@ -31,21 +31,21 @@ As she aged she began to chafe at some of the old laws and ways as well as watch
 Wendy was caught shortly after committing her crimes, though do to the ongoing investigation into some of the crimes not all of them have been revealed at this time.
 
 ### Relationships
-- Gwen: Her older sister, with bad blood between the sisters about who would inherit their fathers vast domain.
-- Dave: Her father. Always seeking to prover herself better than her sister she constantly pressured him to give her challenges to prove her abilities, though as she has grown out of her younger years she has grown less enamored with him.
+Gwen: Her older sister, with bad blood between the sisters about who would inherit their fathers vast domain.  
+Dave: Her father. Always seeking to prover herself better than her sister she constantly pressured him to give her challenges to prove her abilities, though as she has grown out of her younger years she has grown less enamored with him.  
 
 ### Crimes
-Murder
-	Type: ***REDACTED***
-		Counts: 1
-	Type: ***REDACTED***
-		Counts: 5
-Conspiracy
-	Type: ***REDACTED***
-		Counts: 1
-Fraud
-	Type: Documentation
-		Counts: 1
-Bribery
-	Type: Political
-		Counts: 20, investigation still in progress
+Murder  
+	Type: ***REDACTED***  
+		Counts: 1  
+	Type: ***REDACTED***  
+		Counts: 5  
+Conspiracy  
+	Type: ***REDACTED***  
+		Counts: 1  
+Fraud  
+	Type: Documentation  
+		Counts: 1  
+Bribery  
+	Type: Political  
+		Counts: 20, investigation still in progress  
