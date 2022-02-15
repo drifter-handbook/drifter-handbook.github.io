@@ -69,11 +69,11 @@ Blaine nodded absent-mindedly as he rubbed away the blood from his gloves with a
 
 The young woman was the sole survivor of Sellve, found yesterday as reported. If Blaine had given the report, he would've done much the same as Jakab, which is to say obscure the more interesting facts. Facts such as:
 
-	1. While it was true the lady was the sole survivor of Sellve, it'd be more accurate to say she was the first survivor that had come in from the front lines in nearly three months. Jakab and Blaine had responded to five calls in that time, and each had been massacres. From their chats with medics in other wards, it was the same across the entire country. Civilians were being trampled and slaughtered in the heat of war by all sides involved, and this far into an invasion there was simply no hope left for the stragglers. This lady was the living proof that there could be others out there, which was an unsettling sort of hope to have.
+Number one, while it was true the lady was the sole survivor of Sellve, it'd be more accurate to say she was the first survivor that had come in from the front lines in nearly three months. Jakab and Blaine had responded to five calls in that time, and each had been massacres. From their chats with medics in other wards, it was the same across the entire country. Civilians were being trampled and slaughtered in the heat of war by all sides involved, and this far into an invasion there was simply no hope left for the stragglers. This lady was the living proof that there could be others out there, which was an unsettling sort of hope to have.
 
-	2. The lady had clear wounds from yesterday's ambush, but there were quite a few other scars on her. She was clearly being beaten or cut from someone for many years, though whether it was from family or an enemy, it was unclear. Regardless, it was odd, and something Jakab pointed out but seemed keen on keeping quiet about.
+Number two, the lady had clear wounds from yesterday's ambush, but there were quite a few other scars on her. She was clearly being beaten or cut from someone for many years, though whether it was from family or an enemy, it was unclear. Regardless, it was odd, and something Jakab pointed out but seemed keen on keeping quiet about.
 
-	3. Jakab had taken something from the woman's possessions. Blaine wasn't sure what, but he saw the shifty behavior.
+Number three, Jakab had taken something from the woman's possessions. Blaine wasn't sure what, but he saw the shifty behavior.
 	
 None of that involved Ross though, or rather, should not have involved Ross, so the two of them kept quiet about the minutia of the matter.
 
