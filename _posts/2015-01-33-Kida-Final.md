@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Kida"
+date:   2015-01-33
+excerpt: "The Moosejaw Paladin, Light of Death"
+image: /images/Kida.png
+tag:
+- fly by night
+- npc
+- nine of the north
+- green
+---
+
+## Kida
+
+6/9
+
+Campaign: Fly By Night
+
+### Personality
+
+The firstborn child of By-Tor, Kida is nearly the complete opposite of what his lineage may suggest. Born of a demon and a dragon, Kida has a monstrous appearance and falls vaguely into the category of "Demon", but is a wise and noble paladin with a devotion to helping others in need, and spending time walking in the shoes of others. His heart is heavy and pure, but he is not always a gentle giant, and is well known for both his nuturing, wise nature, and his unyielding power and playfulness.
+
+Kida is older than most others in his company, and has lived a long and rough life. As such, he extends a gentle and comforting hand to most all he comes across, especially younger children. His terrifying appearance may turn many off from trusting in him right away, but it only takes a few minutes in Kida's presence to learn of his sweet and caring side. He's well-learned both from studying at colleges and travelling far and wide. His anger is often impersonal, blaming not the person but the circumstances surrounding decisions. Despite coming across contrary to his looks, he does excercise a very playful side, loving to gamble and fight nearly as much as his companions.
+
+### Description
+
+Kida is a gigantic demon creature, vaguely humanoid and well-built, standing a little over a story tall. His face is a hollowed moose skull, twisted into dragonic features, with a glowing green pupil shining out from the center. The rest of Kida's body is either scaly and aged like a dragonborn's skin, or covered in greying feathers and fur. Kida wears bone and metal plate armor, emblazoned with the symbol of Baldur, and a few other bone trinkets and chains. 
+
+Due to his incredible brute strength, Kida is prone to breaking weapons easily, even sledgehammers forged of metal. As such, he has a custom made staff that is fitted with a rock of his choice. When the rock breaks, he replaces it on the go.
+
+Kida almost always fills a role of a healer, since his clerical magic and divine blessing make him one of the best clerics of the region. Prior to studying healing magic, however, Kida served as a tank in battles, distracting enemies while allowing allies to slip away. He does not enjoy killing others, but never hesitates to do so. Kida is just as capable of crushing a man's skull as he is to restoring it, and he plays whichever role is needed for the occasion.
+
+### Story
+
+After deciding he needed to raise a proper demon army, By-Tor had various affairs with powerful women in an attempt to sire as many children as possible to recruit under his banner. The first child born out of this process was Kida, the child of By-Tor and Verdandi, a green dragon. Verdandi, however, drove By-Tor out long before he could decide to leave, already catching on to his intentions to abandon her, and hoped to raise Kida as her own kin.
+
+Kida was born and raised by Verdandi up until adulthood. During this time, Kida was mainly sheltered under his mother's care in her domain, but was often brought out into the world to see what it was like. Despite being shunned and driven out from the lands he visited, his mother always welcomed him home, and Kida ended up finding a few good folks who ended up being childhood friends. Once he had reached the age to set out on his own, Verdandi bade Kida to stay with her and take over as the ruler of the domain, but Kida was honest and explained how he wished to help people instead, and become a wandering warrior in an attempt to help as many as possible. Surprisingly, Verdandi was accepting of his decision, and only asked that if he were to walk the way of the light, that he should strive to become the opposite of his father and one day tear him down.
+
+Kida set off on his own, leaving his loving mother behind, and took up various jobs in rural areas where his appearance would not be too jarring. Most notably, Kida spent a considerable amount of time as a farmhand and as a sailor, working with small groups of people over long lengths of time. While he had no formal martial training, his body and mother's instruction had already forged him into a natural bodyguard, and he was often asked to help out in a pinch. He became skilled in fighting in this way.
+
+Later on in life, Kida decided what he wanted to do most was to seek out his half-brothers and free them from his father's tyranny. Having seen many dead half-demons in his travels, and the relucance of others to help them, Kida set out to try to save as many as possible. Despite many years of wandering and helping brothers in need, the only two that survived the ordeal and joined him were Preston and Logan.
+
+After a few years of travelling as a trio, Kida and his brothers found themselves cornered in the Far North, and called on Snowdog to save them from By-Tor's armies. Snowdog saved them, but insisted that they repay him by serving in his army for a while. Kida accepted on the terms that he would also be allowed to study as a cleric under the Scholars of the Northern Lights, and that his brothers would be allowed to rest for a year before being conscripted (both were quite young at the time, and only spoke broken Common). Snowdog agreed to this, and Kida was trained as a cleric under Sebastian.
+
+Kida quickly became a star pupil, excelling in his clerical studies, and took pity on a young child in the college with whom he'd been paired to study with. His schooling partner, Lady Parhelion, had routinely fallen behind in classes or slipped out altogether, and had caused Kida trouble since his arrival. Kida extended a welcoming hand to Lady Parhelion, and the two ostrasized pupils ended up forming a close bond. 
+
+During a disease breakout at the college, Kida and Lady Parhelion set out to find the source and a cure, but were unsuccessful in their mission. With Lady Parhelion out of commision, and the lives of all the Scholars of the Northern Lights at stake, the god Baldur reached out to Kida and offered to be his patron. Kida accepted, and became the first of the Nine of the North to partner with a god, despite the Red Monk's wishes for them not to.
+
+A few months later, with hordes of demons kicking up dust in the Far North, Snowdog rallied together his army once more in earnest and constripted the demon brothers into their own division. Lady Parhelion dropped out of college and insisted on becoming involved too, listed as a general but with strings attached due to her young age. Two dragons and seven soldiers also accompanied the group, and the unit became known as the "Teeth of the North".
+
+The unit met disaster after disaster, and was eventually disbanded as most everyone was killed, save for the core members and the dragons. Kida became jaded with Snowdog after he had allowed child soldiers, and became insistent about not only removing his brothers from the service of Lord Snowdog, but also Lady Parhelion. Kida became a big supporter for the formation of the Nine of the North, since it would give him an excuse to do so.
+
+During his time in the Nine of the North, Kida served as a defacto head of the group, being a strong advisor to Lady Parhelion, the eldest member of the group, and an altogether wise and jolly fellow. Kida's wisdom and strength were instrumental in guiding and keeping the Nine safe throughout their journeys, and establishing law amongst themselves which would serve as the basis of how they'd treat one another all throughout their lives. Kida poses a real threat to By-Tor and his claim over his domain.
+
+
+### Drifters
+
+After being captured by Spielascor, Kida is held captive for several years in the demi-plane with the other members of the Nine. Once freed, he settles in the hideout and takes care of the wounded members of the Nine, of which there are plenty.
+
+The Drifters first meet Kida while he is napping at the hideout, and leave him well alone. When the time comes for the bastard sons to fight, Preston wakes up Kida, but rather than fighting, he greets the Drifters and offers to take care of their wounded. Kida spends the remaining time at the hideout mostly checking up on others and making sure things are alright with everyone.
+
+During the fight against Spielascor, Kida is given his father's sword and is able to withstand brutal attacks from Spielascor, even going head-to-head with the giant at times. After their victory, Kida, his brothers, Lady Parhelion, and Gloria all set sail from the Far North to travel on their own to a place, hopefully a little more peaceful than this, and with a promise to help aid half-demons throughout the world.
+
+
+### Relationships
+
+- By-Tor: Kida looks down on By-Tor, and By-Tor is constantly infuriated by his son's success in life. Kida seems destined to one day overthrow his father, but is not in the position to dispose of him outright yet.
+
+- Verdandi: A coy and wicked green dragon, Kida's mother. Despite their opposite natures, Verdandi cares for Kida, and Kida cares for her. They seek to spite By-Tor more than anything else.
+
+- Preston: The first half-brother Kida rescued (kinda) who managed to survive and travel alongside Kida. Preston is a bit standoffish, but is grateful for Kida's help. Kida treats him much like an angsty teen.
+
+- Logan: The second half-brother Kida has rescued and survived to travel alongside Kida. Logan is much younger than Kida or Preston, and is often treated like a child by both. Logan looks up to Kida as a big brother, but usually causes him trouble. 
+
+- Snowdog: Kida had a strong relationship with Snowdog in the past, but was quickly soured after Snowdog's absent nature became apparent. Kida considers him a good man, but a poor ruler, and seeks to have him as an ally but never to serve under him directly again.
+
+- The Red Monk: Kida despises the Red Monk, and seeks to destroy him outright alongside By-Tor.
+
+- Sebastian: Kida is Sebastian's star pupil, and lavishes extra attention on him because of his dragonic heritage. The only frustration Sebastian has with Kida is his insistence on being held back by dealing with Lady Parhelion.
+
+- Lady Parhelion:  Kida's close friend and classmate. The two had an odd relationship at first, but Kida has more or less adopted Lady Parhelion into his family since. The two are very close, but also very driven people, and they often part ways to see to their own agendas.
+
+<iframe src="https://open.spotify.com/embed/playlist/0U0598WfkT0Wn2HQdRNTKw?si=668938c9dcbc43f0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
