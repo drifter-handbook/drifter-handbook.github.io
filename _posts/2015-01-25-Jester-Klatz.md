@@ -34,11 +34,11 @@ His favorite spells are Hideous laughter and Vicious mockery, and will use psych
 
 ### Story
 
-Jester Klatz’s home plane of Halcyon has survived two apocalypses and sits on the precipice of a third. From the idyllic hamlets built in the corpses of Giants to the sprawling ruins of Old World and the Sky Spire that bisects the horizon, espionage, war, and folly pollute the zeitgeist. This is the world Klatz was born into, and it shaped him immensely. While he has since abandoned his past identity in favor of one derived from a children's fable, the trappings of his home continue to manifest in both his art. Themes of betrayal, folly and hubris, alongside the ever present imagery of bazare four-armed humanoids are omnipresent in his work. 
+Jester Klatz’s home plane of Halcyon has survived two apocalypses and sits on the precipice of a third. From the idyllic hamlets built in the corpses of Giants to the sprawling ruins of Old World and the Sky Spire that bisects the horizon, espionage, war, and folly pollute the zeitgeist. This is the world Klatz was born into, and it shaped him immensely. While he has since abandoned his past identity in favor of one derived from a children's fable, the trappings of his home continue to manifest in both his art. Themes of betrayal, madness and hubris, alongside imagery of bazare four-armed humanoids are omnipresent in his work. 
 
 Klatz joined the Drifters by chance, after “freeing” an adventurer in the depths of the Borsian Marsh. The key the victim was carrying seemed to be calling deeper into the bog. A lone doorframe amidst the trees paradoxically opened into a crowded workshop. A wayward call, answered by chance, unwittingly freeing the Patchwork Bastard from prison he didn’t even know was trapping him.
 
-Yet even as careful as he has been, and with an entire multiverse to wreak havoc upon, the Jester’s actions have not gone unnoticed. It is only a matter of time before one of his”Detractors” catches up.
+Yet even as careful as he has been, and with an entire multiverse to wreak havoc upon, the Jester’s actions have not gone unnoticed. It is only a matter of time before one of his ”Detractors” catches up.
 
 
 ### Drifters
@@ -55,7 +55,7 @@ However, like many before him, his good fortune was no accident, each action sub
 
 - Mytherius Orthello Casimir II: Klatz has a deep disdain for the cowardly mage. He is a man that flails against his destiny, and his open opposition to and distaste for Klatz’s work has garnered him no favor. His death will not be a pleasant one. Klatz will see to that.
 
-- The Drifters: Among the Drifters, Klatz is a stranger in a strange land. Thye homes and ways are so different, not only from Klatz but from each other. Though he prefers to work alone, their blatant tolerance of his craft is a welcome change from having to work from the shadows on Halcyon. Their goals are quite different, but assisting them may prove to be mutually beneficial. To shake a hand is to double one’s power.
+- The Drifters: Among the Drifters, Klatz is a stranger in a strange land. Their homes and ways are so different, not only from Klatz but from each other. Though he prefers to work alone, their blatant tolerance of his craft is a welcome change from having to work from the shadows on Halcyon. Their goals are quite different, but assisting them may prove to be mutually beneficial. To shake a hand is to double one’s power.
 
 - The Golden Master: A true patron of the arts! The Golden Master has Klatz’s undying loyalty. Being the first powerful being to understand his work (or at least acknowledge the ideas behind it), Klatz has become fanatically devoted to pleasing his Chaotic patron. It is likely the jester’s delusions of grandeur obscure his Master’s true feelings and intentions. 
 
