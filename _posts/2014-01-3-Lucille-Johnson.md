@@ -43,4 +43,6 @@ During the Ronin arc, Lucielle Johnson was the patriarch of the drifters' clan. 
 
 While Lucielle Johnson has not made a formal appearance yet in the Illumina Saga, he appears to have been the guildmaster who sent the drifters on their voyage to the new land.
 
+In legend it is stated that Lucille has a passing interest in the culinary arts, and makes a mean thin crust pizza.
+
 <iframe src="https://open.spotify.com/embed/user/isittooshortornotavailable/playlist/2lijXxJ8GW6EaQXGJaAM6Q" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
