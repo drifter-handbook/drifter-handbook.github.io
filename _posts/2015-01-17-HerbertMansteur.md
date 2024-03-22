@@ -15,7 +15,7 @@ Campaign: Feast of Legends
 
 ### Personality
 
-Herbert Mansteur, born Wolfram Kropp, is a polite, gentle man from the frozen south of the Deep Freeze. Always eager to help and make friends, those who meeting him in passing would likely describe him as avuncular and outgoing. However, this jovial demenor quickly falls away upon closer inspection.
+Herbert Mansteur, born Wolfram Kropp, is a polite, gentle man from the frozen south of the Deep Freeze. Always eager to help and make friends, those who meet him in passing would likely describe him as avuncular and outgoing. However, this jovial demenor quickly falls away upon closer inspection.
 
 ### Description
 
@@ -42,7 +42,7 @@ While still desperate in his search for a cure, after being prophesied to soon m
 
 ### Relationships
 
-- Drifter Cannon: Mansteur sees the pain in Drifter's eye(s?) and empathizes deeply, he too having lost family and friend tryants. Due to the animistic faith of his homeland, the idea of a sentient cannon is rather mundate to Mansteur. While chaotic and reckless, Drifter means well, and their shared pain has caused Mansteur to see the cannon as a close friend, whether the feeling is reciprocated or not.
+- Drifter Cannon: Mansteur sees the pain in Drifter's eye(s?) and empathizes deeply, he too having lost family and friend to tryants. Due to the animistic faith of his homeland, the idea of a sentient cannon is rather mundate to Mansteur. While chaotic and reckless, Drifter means well, and their shared pain has caused Mansteur to see the cannon as a close friend, whether the feeling is reciprocated or not.
 
 - Quart Tart: The old wizard's unwavering faith in Queen Wendy directly contradicting his chaotic disposition have left Mansteur weary of Quart. He wishes no ill upon the Spicy Man and will do anything he can to aid him, but intends to keep his distance when possible. Secrets are dangerous, especially in the presence of... eavesdroppers.
 
